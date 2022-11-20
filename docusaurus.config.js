@@ -50,6 +50,9 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'dark',
+      },
       navbar: {
         title: 'Silviu Alexandru Avram',
         logo: {
@@ -58,6 +61,7 @@ const config = {
         },
         items: [
           {to: '/', label: 'Blog', position: 'left'},
+          {to: '/about', label: 'About', position: 'left'},
           {
             href: 'https://github.com/silviuaavram',
             label: 'GitHub',
