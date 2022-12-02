@@ -9,76 +9,93 @@ export default function About() {
       <div className={styles.mainContainer}>
         <h1>Welcome to my blog!</h1>
         <header>
-          <article className={styles.aboutTheAuthor}>
-            <section>
-              <h2>About the author</h2>
-              <p>
-                Hi, I'm Silviu, and I'm a software engineer 👨‍💻. When I'm not
-                coding, I spend my time playing basketball 🏀, salsa dancing 🕺
-                and drinking cofee ☕️. I also drink coffee when coding, so
-                there's that.
-              </p>
-              <p>
-                I started this blog as a way to write down important things that
-                I consider worth sharing. Once I'll solve an interesting coding
-                challenge, I will write about it. After joining a cool
-                conference with super useful content, make sure you'll receive a
-                blog post about it. And as soon as I will discover the perfect
-                Margarita recipe, it's going to get patented 💰.
-              </p>
+          <article>
+            <h2>About the author</h2>
+            <section className={styles.aboutTheAuthor}>
+              <section>
+                <p>
+                  Hi, I'm Silviu, and I'm a software engineer 👨‍💻. When I'm not
+                  coding, I spend my time playing basketball 🏀, salsa dancing
+                  🕺 and drinking cofee ☕️. I also drink coffee when coding, so
+                  there's that.
+                </p>
+                <p>
+                  I believe that writing is an important way to improve myself
+                  and others. If I write about a particular subject, without
+                  someone explicitly forcing me to do it, it means that I aim to
+                  understand that subject well enough. And I consider it
+                  important enough to share it with someone else. It's the
+                  reason why I built this blog, to thing and write about stuff
+                  that is helpful to me and can also be helpful to others.
+                </p>
+                <figure>
+                  <blockquote cite="https://youtu.be/bfDOoADCfkg">
+                    <p>
+                      <i>
+                        Thinking makes you act effectively in the world.
+                        Thinking makes you win the battles you undertake, and
+                        those could be battles for good things. If you can think
+                        and speak and write, you are absolutely deadly. Nothing
+                        can get in your way.
+                      </i>
+                    </p>
+                  </blockquote>
+                  <figcaption>
+                    —Jordan Peterson, <cite>The Power of Writing</cite>
+                  </figcaption>
+                </figure>
+              </section>
+              <img
+                className={styles.authorImage}
+                alt="silviu sitting in front of to the fountain in piazza de ferrari in genoa"
+                src="/img/pictures/silviu-about-the-author-1080w.jpg"
+                srcSet="/img/pictures/silviu-about-the-austyles.articleInContentthor-360w.jpg, /img/pictures/silviu-about-the-author-720w.jpg 2x, /img/pictures/silviu-about-the-author-1080w.jpg 3x"
+                width={360}
+              />
             </section>
-            <img
-              className={`${styles.sectionImageEnd} ${styles.aboutImg}`}
-              alt="silviu sitting in front of to the fountain in piazza de ferrari in genoa"
-              src="/img/pictures/silviu_about_the_author.jpg"
-              width="360"
-            />
           </article>
         </header>
         <main>
-          <article
-            className={`${styles.educationAndInternships} ${styles.articleInContent}`}
-          >
-            <section>
-              {' '}
+          <article className={styles.articleInContent}>
+            <h2>Education and Internships</h2>
+            <section className={styles.educationAndInternships}>
               <img
-                className={styles.sectionImageEnd}
                 alt="silviu wearing sunglasses on the edge of a cliff in the bavarian alps"
-                src="/img/pictures/silviu_college_alps.jpg"
+                src="/img/pictures/silviu-college-alps-1440w.jpg"
+                srcSet="/img/pictures/silviu-college-alps-360w.jpg, /img/pictures/silviu-college-alps-720w.jpg 2x, /img/pictures/silviu-college-alps-1080w.jpg 3x"
+                width={360}
               />
-            </section>
-            <section>
-              <h2>Education and Internships</h2>
-              <p>
-                I attended the <i>B.P. Hasdeu High School</i> in Buzau,
-                finishing the class of Mathematics and Informatics, with a
-                special focus on English. I confess that I was not a huge fan of
-                the first two at that time. Consequently, my choice of college
-                was a lucky one, as it turned out in the future. The choice was
-                the{' '}
-                <i>
-                  Authomatics and Computers Faculty of the Politechnic
-                  University of Bucharest.
-                </i>{' '}
-                Even though I found programming and engineering smart and
-                interesting at that time, I as not very sure about everything,
-                since I failed to find much meaning into it.
-              </p>
-              <p>
-                The meaning of programming and computer science came one
-                beautiful spring day in 2013. I was accepted at{' '}
-                <i>BitDefender</i> for the internship position of Quality
-                Assurance Analyst. It was one of the best moment of my life, as
-                people in a company actually needed me to work for them. And
-                they paid. And they had free coffee. During that amazin summer I
-                discovered my passion for automation, as I developed a Java and
-                Batch based script that tested file transfer between a couple of
-                Android devices, using the application we were supposed to test.
-                They proposed I should stay employed after the internship was
-                over, but sadly I had to refuse since third year of college was
-                rumored to be the most demanding of all.
-              </p>
-              <section className={styles.renaultInternship}>
+              <section>
+                <p>
+                  I attended the <i>B.P. Hasdeu High School</i> in Buzau,
+                  finishing the class of Mathematics and Informatics, with a
+                  special focus on English. I confess that I was not a huge fan
+                  of the first two at that time. Consequently, my choice of
+                  college was a lucky one, as it turned out in the future. The
+                  choice was the{' '}
+                  <i>
+                    Authomatics and Computers Faculty of the Politechnic
+                    University of Bucharest.
+                  </i>{' '}
+                  Even though I found programming and engineering smart and
+                  interesting at that time, I as not very sure about everything,
+                  since I failed to find much meaning into it.
+                </p>
+                <p>
+                  The meaning of programming and computer science came one
+                  beautiful spring day in 2013. I was accepted at{' '}
+                  <i>BitDefender</i> for the internship position of Quality
+                  Assurance Analyst. It was one of the best moment of my life,
+                  as people in a company actually needed me to work for them.
+                  And they paid. And they had free coffee. During that amazin
+                  summer I discovered my passion for automation, as I developed
+                  a Java and Batch based script that tested file transfer
+                  between a couple of Android devices, using the application we
+                  were supposed to test. They proposed I should stay employed
+                  after the internship was over, but sadly I had to refuse since
+                  third year of college was rumored to be the most demanding of
+                  all.
+                </p>
                 <p>
                   In 2014 I was accepted for another internship at{' '}
                   <i>Renault Technologie Roumanie</i>, which was not exactly
@@ -87,44 +104,48 @@ export default function About() {
                   files they used for testing. Was even rewarded a toy car for
                   the app, but sadly I had to give it away after a few weeks 😢.
                 </p>
-                <img
-                  className={styles.sectionImageEnd}
-                  alt="silviu holding a toy car trophy and smiling"
-                  src="/img/pictures/silviu_toy_car.jpg"
-                />
               </section>
             </section>
           </article>
           <article className={styles.articleInContent}>
             <h2>Software Engineering</h2>
             <section className={styles.adobeBangalore}>
-              <p>
-                My first full time job was at Adobe in 2014 as a Junior Software
-                Engineer in Test. My interest for automation led me to improve
-                <i>Business Catalyst's</i> end-to-end automated testing
-                framework. My best achievement for that project was updating the
-                framework to run the automated tests in parallel, using a
-                Selenium Grid infrastructure. After Business Catalyst, I became
-                a Software Developer in Test for <i>Adobe Experience Design</i>,
-                where I helped the team create an automated testing solution
-                from the ground up. There I discovered JavaScript and I honestly
-                fell in love with it. The testing framework became so important
-                that I was asked to travel to Bangalore and ramp up a whole team
-                to write more automated tests for XD.
-              </p>
+              <section>
+                <p>
+                  My first full time job was at Adobe in 2014 as a Junior
+                  Software Engineer in Test. My interest for automation led me
+                  to improve
+                  <i>Business Catalyst's</i> end-to-end automated testing
+                  framework. My best achievement for that project was updating
+                  the framework to run the automated tests in parallel, using a
+                  Selenium Grid infrastructure. After Business Catalyst, I
+                  became a Software Developer in Test for{' '}
+                  <i>Adobe Experience Design</i>, where I helped the team create
+                  an automated testing solution from the ground up. There I
+                  discovered JavaScript and I honestly fell in love with it.
+                </p>
+                <p>
+                  The testing framework became so important that I was asked to
+                  travel to Bangalore and ramp up a whole engineering team to
+                  write more automated tests for Adobe XD. The experience
+                  thought me that I enjoy teaching others about the things I'm
+                  passionate about, and sharing knowledge within teams is the
+                  key to delivering great results.
+                </p>
+              </section>
               <img
-                className={styles.sectionImageEnd}
                 alt="silviu next to an i love bangalore sign"
-                src="/img/pictures/silviu_bangalore.jpg"
+                srcSet="/img/pictures/silviu-bangalore-480w.jpg, /img/pictures/silviu-bangalore-720w.jpg 1.5x, /img/pictures/silviu-bangalore-960w.jpg 2x"
+                src="/img/pictures/silviu-bangalore-960w.jpg"
                 width={480}
               />
             </section>
             <section className={styles.microsoftPrague}>
               <img
-                className={styles.sectionImageStart}
                 alt="silviu in the Čzesky Krumlov castle"
-                src="/img/pictures/silviu_czechia.jpg"
-                height={480}
+                src="/img/pictures/silviu-czechia-1440w.jpg"
+                srcSet="/img/pictures/silviu-czechia-360w.jpg, /img/pictures/silviu-czechia-720w.jpg 2x, /img/pictures/silviu-czechia-1080w.jpg 3x"
+                width={360}
               />
               <section>
                 <p>
@@ -200,20 +221,21 @@ export default function About() {
           </article>
           <article>
             <h2>Hobbies</h2>
-            <section>
-              <p>
-                I spend my free time mostly trying to be active. I run 🏃‍♂️ most
-                mornings, hit the gym 🏋️‍♂️ at least twice a week and play
-                basketball 🏀 whenever I can. Recently I am also taking salsa
-                and bachata dancing lessons 🕺💃, which is probably the most fun
-                thing to do.
-              </p>
-              <section className={styles.drinks}>
-                <img
-                  className={styles.sectionImageStart}
-                  alt="silviu in the Čzesky Krumlov castle"
-                  src="/img/pictures/silviu_margarita.jpg"
-                />
+            <section className={styles.drinks}>
+              <img
+                alt="cup of capuccino with a swann drawn as latte art"
+                src="/img/pictures/coffee-latte-art-1080w.jpg"
+                srcSet="/img/pictures/coffee-latte-art-360w.jpg, /img/pictures/coffee-latte-art-720w.jpg 2x, /img/pictures/coffee-latte-art-1080w.jpg 3x"
+                width={360}
+              />
+              <section>
+                <p>
+                  I spend my free time mostly trying to be active. I run 🏃‍♂️ most
+                  mornings, hit the gym 🏋️‍♂️ at least twice a week and play
+                  basketball 🏀 whenever I can. Recently I am also taking salsa
+                  and bachata dancing lessons 🕺💃, which is probably the most
+                  fun thing to do.
+                </p>
                 <p>
                   When I'm at home, I use my{' '}
                   <Link href="https://www.sageappliances.com/uk/en/products/espresso/bes878.html">
@@ -225,13 +247,13 @@ export default function About() {
                   Probably my go to is a Margarita or a Martini. And as for
                   cooking, I usually do pasta 🍝 and banana bread.
                 </p>
-                <img
-                  className={styles.sectionImageEnd}
-                  alt="silviu in the Čzesky Krumlov castle"
-                  src="/img/pictures/silviu_coffee.jpg"
-                  width={400}
-                />
               </section>
+              <img
+                alt="glass of frozen strawberry margarita with a lime wedge garnish"
+                src="/img/pictures/margarita-1080w.jpg"
+                srcSet="/img/pictures/margarita-360w.jpg, /img/pictures/margarita-720w.jpg 2x, /img/pictures/margarita-1080w.jpg 3x"
+                width={360}
+              />
             </section>
           </article>
         </main>

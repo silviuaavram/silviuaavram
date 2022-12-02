@@ -11,53 +11,49 @@
 }
 
 img {
-  border-radius: .5rem
+  border-radius: 0.5rem;
 }
 
 main {
-  margin-top: 2rem
-}
-
-.aboutImg {
-  justify-self: end
+  margin-top: 2rem;
 }
 
 .aboutTheAuthor {
   display: grid;
-  grid-template-columns: [first] 50% [line2] 50% [end];
-  column-gap: 1.5rem;
+  grid-template-columns: [first] 1fr [line2] 360px [end];
+  column-gap: 2.5rem;
 }
 
 .educationAndInternships {
   display: grid;
-  grid-template-columns: [first] 30% [line2] 70% [end];
-  column-gap: 1.5rem;
+  grid-template-columns: [first] 360px [line2] 1fr [end];
+  column-gap: 2.5rem;
 }
 
 .renaultInternship {
   display: grid;
   grid-template-columns: [first] 60% [line2] 40% [end];
-  column-gap: .5rem;
+  column-gap: 0.5rem;
 }
 
 .adobeBangalore {
   display: grid;
-  grid-template-columns: [first] 45% [line2] 55% [end];
-  column-gap: .5rem;
+  grid-template-columns: [first] 1fr [line2] 480px [end];
+  column-gap: 2.5rem;
   margin-bottom: 1.25rem;
 }
 
 .microsoftPrague {
   display: grid;
-  grid-template-columns: [first] 35% [line2] 65% [end];
-  column-gap: .5rem;
+  grid-template-columns: [first] 360px [line2] 1fr [end];
+  column-gap: 2.5rem;
   margin-bottom: 1.25rem;
 }
 
 .drinks {
   display: grid;
-  grid-template-columns: [first] 25% [line2] 20% [line3] 40% [end];
-  column-gap: 1.5rem;
+  grid-template-columns: [first] 360px [line2] 1fr [line3] 360px [end];
+  column-gap: 2.5rem;
   margin-bottom: 1.25rem;
 }
 

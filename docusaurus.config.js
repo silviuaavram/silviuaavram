@@ -90,7 +90,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Silviu Alexandru Avram.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Silviu Alexandru Avram. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
