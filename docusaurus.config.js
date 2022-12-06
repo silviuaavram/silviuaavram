@@ -56,7 +56,7 @@ const config = {
       navbar: {
         title: 'Silviu Alexandru Avram',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'blog logo with a tequila glass and blog owner name initials',
           src: 'img/logo.png',
         },
         items: [
@@ -64,25 +64,25 @@ const config = {
           {to: '/about', label: 'About', position: 'left'},
           {
             href: 'https://github.com/silviuaavram',
-            label: 'GitHub',
+            label: "Silviu's GitHub link",
             position: 'right',
             icon: 'github',
           },
           {
             href: 'https://www.linkedin.com/in/silviuaavram',
-            label: 'LinkedIn',
+            label: "Silviu's LinkedIn link",
             position: 'right',
             icon: 'linkedin',
           },
           {
             href: 'https://www.instagram.com/silviuaavram/',
-            label: 'Instagram',
+            label: "Silviu's Instagram link",
             position: 'right',
             icon: 'instagram',
           },
           {
             href: 'https://twitter.com/silviuaavram',
-            label: 'Twitter',
+            label: "Silviu's Twitter link",
             position: 'right',
             icon: 'twitter',
           },
