@@ -1,62 +1,62 @@
 .mainContainer {
-  margin: 5vh 10vw;
+  max-width: 640px;
+  margin: 2rem auto;
+  width: 100%;
+  padding: 0 1rem;
+  text-align: justify;
 }
 
-.sectionImageEnd {
-  justify-self: flex-end;
+.sectionContainer {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
 }
 
-.sectionImageStart {
-  justify-self: flex-start;
+.sectionImage {
+  flex-grow: 1;
+  object-fit: contain;
+  align-self: start;
+  min-width: 0;
 }
 
-img {
-  border-radius: 0.5rem;
+.sectionPortraitImage, .sectionSmallerContent {
+  flex-basis: 410px;
 }
 
-main {
-  margin-top: 2rem;
+.sectionLandscapeImage, .sectionLargerContent {
+  flex-basis: 550px;
 }
 
-.aboutTheAuthor {
-  display: grid;
-  grid-template-columns: [first] 1fr [line2] 360px [end];
-  column-gap: 2.5rem;
+.sectionContent {
+  flex-grow: 1;
 }
 
-.educationAndInternships {
-  display: grid;
-  grid-template-columns: [first] 360px [line2] 1fr [end];
-  column-gap: 2.5rem;
+@media (min-width: 1020px) {
+  .mainContainer {
+    max-width: 1280px;
+  }
+
+  .articleInContent {
+    margin-bottom: 2.5rem;
+  }
+
+  .educationAndInternshipsImage, .softwareEngineeringMicrosoftImage {
+    order: 1;
+  }
 }
 
-.renaultInternship {
-  display: grid;
-  grid-template-columns: [first] 60% [line2] 40% [end];
-  column-gap: 0.5rem;
+@media (min-width: 1020px) and (max-width: 1279px) {
+  .hobbiesContent {
+    flex-basis: 980px;
+  }
+
+  .hobbiesMargaritaImage, .hobbiesCapuccinoImage {
+    order: 1;
+  }
 }
 
-.adobeBangalore {
-  display: grid;
-  grid-template-columns: [first] 1fr [line2] 480px [end];
-  column-gap: 2.5rem;
-  margin-bottom: 1.25rem;
-}
-
-.microsoftPrague {
-  display: grid;
-  grid-template-columns: [first] 360px [line2] 1fr [end];
-  column-gap: 2.5rem;
-  margin-bottom: 1.25rem;
-}
-
-.drinks {
-  display: grid;
-  grid-template-columns: [first] 360px [line2] 1fr [line3] 360px [end];
-  column-gap: 2.5rem;
-  margin-bottom: 1.25rem;
-}
-
-.articleInContent {
-  margin-top: 2.5rem;
+@media (min-width: 1280px) {
+  .hobbiesContent, .hobbiesMargaritaImage, .hobbiesCapuccinoImage {
+    flex-basis: 400px;
+  }
 }
