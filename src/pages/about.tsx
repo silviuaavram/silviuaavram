@@ -141,8 +141,8 @@ export default function About() {
                   Selenium Grid infrastructure. After Business Catalyst, I
                   became a Software Developer in Test for{' '}
                   <i>Adobe Experience Design</i>. There, I helped the team
-                  create an automated testing solution from the ground up. There
-                  I discovered JavaScript and I honestly fell in love with it.
+                  create an automated testing solution from the ground up. More
+                  importantly, I discovered JavaScript and fell in love with it.
                 </p>
                 <p>
                   The testing framework gained traction and I was asked to
@@ -190,7 +190,7 @@ export default function About() {
                   I came back to Bucharest in the infamous year of 2020, and
                   joined Adobe again, this time as a FrontEnd Developer for
                   Adobe Target. I had the opportunity to apply what I learned in
-                  terms of accessibility, automated desting and design systems.
+                  terms of accessibility, automated testing and design systems.
                   During that time I had the incredible opportunity to be a
                   speaker at{' '}
                   <Link href="https://www.deque.com/axe-con/">
