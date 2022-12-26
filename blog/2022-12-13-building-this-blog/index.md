@@ -14,7 +14,7 @@ Expecially now, in 2022, with all the many dedicated platforms and services that
 have established themselves over time in the digital blogging department.
 
 As someone who does Frontend Development for a living, my list of technical
-choices is even more generous. I should be able, theoretically, to build a web
+choices is even more generous. I am able, theoretically, to build a web
 application using just the magic trio of HTML, CSS and JavaScript. Just in case
 I don't feel like going full vanilla, there are superior levels of abstractions,
 such as, for example, the ReactJS, tailwindcss and TypeScript combination. Of
