@@ -23,13 +23,14 @@ export default function About() {
               >
                 <p>Hi, I'm Silviu. That's me in the picture ⛲️.</p>
                 <p>
-                  I'm a software engineer 👨‍💻. When I'm not coding, I spend my
-                  time playing basketball 🏀, salsa dancing 🕺 and drinking
-                  cofee ☕️. I also drink coffee when coding, so there's that.
+                  I'm a software engineer 👨‍💻 working at Microsoft. When I'm not
+                  coding, I spend my time playing basketball 🏀, dancing salsa
+                  🕺 and drinking cofee ☕️. I also drink coffee when coding, so
+                  there's that.
                 </p>
                 <p>
                   Why the blog, you ask. Well, to be honest, I had this idea for
-                  some time, as a way to share experiences I found to be
+                  some time, as a way to share experiences I found to be 
                   interesting or insightful. Not only will it help me write my
                   thoughts down for all eternity, but maybe the information is
                   also helpful to someone else. And that's enough reason, as far
@@ -199,8 +200,16 @@ export default function About() {
                   in 2021, where I presented Downshift's hooks API.
                 </p>
                 <p>
-                  Since 2022 I am a Software Engineer at Bolt, building ReactJS
-                  web components to be reused by other teams in their products.
+                  In January 2022 I joined the Estonian company Bolt, where I
+                  helped building their Design System. I implemented ReactJS web
+                  components to be reused by other teams in their products. It
+                  was a great experience to build a component library from the
+                  ground up, balancing features according to immediate client
+                  needs.
+                </p>
+                <p>
+                  Since middle of December I returned to Microsoft, where I
+                  reconnected with many of my colleagues from Microsoft Teams.
                 </p>
               </section>
             </section>
