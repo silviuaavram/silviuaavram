@@ -197,7 +197,11 @@ export default function About() {
                   <Link href="https://www.deque.com/axe-con/">
                     Deque's axe-con
                   </Link>{' '}
-                  in 2021, where I presented Downshift's hooks API.
+                  in 2021, where I presented Downshift's hooks API. Here's the{' '}
+                  <Link href="https://www.youtube.com/watch?v=iDEETM9Pa4Q&ab_channel=DequeSystems">
+                    link to the recording
+                  </Link>
+                  .
                 </p>
                 <p>
                   In January 2022 I joined the Estonian company Bolt, where I
