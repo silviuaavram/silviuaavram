@@ -262,7 +262,7 @@ to do, but it does feel good when you catch the proper wave.
 
 |                      Monte Agudo in Lisboa                       |                       Portas do Sol in Lisboa                       |
 | :--------------------------------------------------------------: | :-----------------------------------------------------------------: |
-| ![lisboa view from the monte agudo viewpoint](./lisboa-view.jpg) | ![lisboa view from the prota do sol viewpoint](./lisboa-view-2.jpg) |
+| ![lisboa view from the monte agudo viewpoint](./lisboa-view.jpg) | ![lisboa view from the porta do sol viewpoint](./lisboa-view-2.jpg) |
 
 ## Hobbies
 
