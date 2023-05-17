@@ -26,17 +26,16 @@ a walk to the Hudson River waterfront, overlooking Manhattan. Describing the
 skyline is just impossible, I just could not believe I was actually there,
 staring at it from across the river. It was late in the evening, or at least
 that's how I felt it was after the long flight. It was my opportunity to just
-pause and indulge the view.
-
-Right in front of my eyes, the World Trade Center. To the left, in the distance,
-the Empire State Building. The Hudson Yards, recently built, also to the left.
-Helicopters everywhere. Like in the movies, but better.
+pause and indulge the view. Right in front of my eyes, the World Trade Center.
+To the left, in the distance, the Empire State Building. The Hudson Yards,
+recently built, also to the left. Helicopters everywhere. Like in the movies,
+but better.
 
 As for Jersey City, I found it to be quite a cosy place, especially the hip
 downtown, filled with coffee places, craft beer bars and restaurants. It
 featured many 19th century brownstone houses which suited the place very well,
 along with small shops and a few parks. The place was quite packed after working
-hours, and there was always a queue at the ice cread place (ugh...).
+hours, and there was always a queue at the ice cream place (ugh...).
 
 |               Manhattan Skyline               |                Jersey City Skyline                |
 | :-------------------------------------------: | :-----------------------------------------------: |
@@ -68,10 +67,14 @@ One thing's for sure: when possible, I'll always pack the running shoes.
 It seems pretty hard to divide the trip by time, so I'd rather split it by
 location, starting with Lower Manhattan. It's famous for taking a cruise to the
 Statue of Liberty and posing beneath the Wall Street Bull. There's also Wall
-Street itself, the stock exchange, and plenty of tall office buildings, hence
-it's name, the Financial District. Trinity Church is impressive. Squeezed
-between so many sky scrapers, it does stand out with its beautiful Gothic
-Revival style exterior, stained glass windows and peaceful cemetery.
+Street itself, the stock exchange, and plenty of gigantic office buildings,
+hence it's name, the Financial District. At the intersection of Wall Street,
+Beaver Street and Pearl Street, I came across a building that looked stragely
+familiar and realised I was looking at the real life location of the Continental
+hotel from John Wick. On Broadway, betwen the buildings, the Trinity Church is
+making an impression. Squeezed between so many sky scrapers, it does stand out
+with its beautiful Gothic Revival style exterior, stained glass windows and
+peaceful cemetery with cherry trees and lots of flowers.
 
 Equally impressive is the World Trace Center subway station, both from the
 inside and the outside. It was designed by the Spanish architect Santiago
@@ -88,20 +91,20 @@ chose Blair Waldorf's favorite.
 
 Of course, I should also mention the Brooklyn Bridge, probably the most crowded
 bridge to cross on foot. Even with the crowds, the bridge offers a delightful
-walking opportunity, with its new-Gothic towers, steel cables and pleasant views
+walking opportunity, with its neo-Gothic towers, steel cables and pleasant views
 over both Manhattan and Brooklyn. I turned around just before reaching Brooklyn,
-as I decided to continue the walk back to Manhattan towards Canal Street, and
+as I decided to continue my walk back to Manhattan towards Canal Street, and
 postpone Brooklyn for another trip. On top of the Dumbo view point, I also have
 the Brooklyn Botanical Garden in Prospect Park on my future visiting list.
 Anyway, back to Manhattan.
 
 I got off the bridge and turned right towards Chinatown and Little Italy. I took
 Center Street and went towards Canal Street. On my right I came across an array
-of what it appear to be government buildings, with imposing entrances. Later I
-found out that the buildings were actually the Supreme Court and the Courthouse.
-I continued my walk north, reached Canal Street and wandered a bit through
-Chinatown and Little Italy, before deciding to change course and head towards
-Soho and, of course, Noho.
+of what it appear to be government buildings, with imposing entrances. Later, I
+discovered that the buildings were actually the Supreme Court and the
+Courthouse. I continued my walk north, reached Canal Street and wandered a bit
+through Chinatown and Little Italy, before deciding to change course and head
+towards Soho and, of course, Noho.
 
 |              Brooklyn Bridge              |               World Trade Center                |
 | :---------------------------------------: | :---------------------------------------------: |
@@ -122,13 +125,13 @@ involved walking from the WTC to Central Park and then returning back either to
 the WTC or any other Path station. I mentioned the Flatiron Building, but
 unfortuantely I found it under construction, so there was not much to see. On
 the other hand, the Madison Square Park area offers a selection of equally
-magical places: The Harry Potter store and the Shake Shack restaurant, which has
-tables outside, right in the park. I went to the shop at least 3 times and I was
-close to buying Severus' wand, but I did not like the wand stands and decided to
-postpone my purchase until I figure out where to place the wand in my home.
+magical places, and #1 is, of course, the Harry Potter store. I went to the shop
+at least 3 times and I was close to buying Severus' wand, but I did not like the
+wand stands and decided to postpone my purchase until I figure out where to
+place the wand in my home.
 
-Equally magical is Shake Shack. I ate there almost daily while in the US, and
-quit consistently menu-wise: double Smoke Shack, regular fries, 6 chicken bites
+Equally magical is Shake Shack, and the Madison Square Park location has tables
+outside, right in the park. Double Smoke Shack, regular fries, 6 chicken bites
 and a laaaarge Fifty Fifty. 2000 calories and 0 regrets. And that's the magical
 part about New York which I liked: wherever I was, there was always something
 good to drink or to eat. Just out of any subway, there's a Starbucks. A Dunkin
@@ -143,24 +146,25 @@ these lines.
 | ![empire state view](./empire-state-view.jpg) | ![public library](./public-library.jpg) |
 
 A few streets to the north of Madison Square Park, there's the 34th street, with
-the Empire State Building, Macy's shop and The Morgan Library & Museum. I did
-mention that I climbed on top of Blair's favorite building, the Empire State,
-which is what I recommend doing first, given its position and history. It offers
-Manhattan views both to the north and to the south, and every view was just
-breathtaking. I went to the Empire alone, but at the Morgan Museum I went with
-my friends, since they booked a visiting slot during an evening. Morgan's
-collection is impressive, filled with pieces from all around the world,
-exquisite furniture, many many books, one of them being the Gutenberg Bible, one
-of the few available out there.
+the Empire State Building, the Macy's store and The Morgan Library & Museum. I
+did mention that I climbed on top of Blair's favorite building, the Empire
+State, which is what I recommend going for first, given its position and
+history. It offers jaw-dropping Manhattan views both to the north and to the
+south, and every view is just breathtaking. I went to the Empire State Building
+alone, but at the Morgan Museum I went with my friends, since they booked a
+visiting slot during an evening. Morgan's collection is impressive, filled with
+pieces from all around the world, exquisite furniture, many many books, one of
+them being the Gutenberg Bible, one of the few available out there.
 
 It's probably worth mentioning that most of the time I chose the 5th Avenue to
-go north, in the hopes of meeting Taylor Swift. Other avenues are nice as well,
-such as the Madison Avenue, especially upwards from around 55th street. And 9th
-Avenue. Other places that I really enjoyed in this part of Manhattan are the
-Grand Central Terminal, where John Wick was filmed (and others, of course), the
-New York Public Library where I took some pretty nice pictures, St. Patrick's
-Cathedral, MoMa, Whitney Museum, Chelsea Market, Hudson Yards. I think it's my
-favorite part of Manhattan, given the number of places I visited.
+go north, given its popularit and my hopes of seeing Taylor Swift. Other avenues
+are nice as well, such as the Madison Avenue, especially upwards from around
+55th street. And the 9th Avenue. Other places that I really enjoyed in this part
+of Manhattan are the Grand Central Terminal, where John Wick was filmed (and
+others, of course), the New York Public Library where I took some pretty nice
+pictures, St. Patrick's Cathedral, MoMa, Whitney Museum, Chelsea Market, Hudson
+Yards. I think it's my favorite part of Manhattan, given the number of places I
+visited.
 
 |             Manhattan West Office Buildings              |            Hudson Yards             |
 | :------------------------------------------------------: | :---------------------------------: |
@@ -173,12 +177,12 @@ between the equally good looking buildings. It can be quite crowded sometimes,
 but it's still a great feeling to go for a stroll and enjoy the views,
 especially at sunset. Secondly, there's Times Square, and even though many
 considered to be an overrated spot with nothing particularly exciting about it,
-I am happy about to have experienced the commercial light show. And thirdly, the
-Eugene O'Neill Theatre, where my friend bought tickets for the Book of Mormon.
-It was the first musical experience for me, and I think it was the best
-experience I had in New York, to be honest. I did not know what to expect at
-all, and the show was incredible. If anyone has a todo list for New York, they
-should add a Broadway show right at the to. Period.
+it's still a must go for the commercial light show, and for the John Wick
+filming location. And thirdly, the Eugene O'Neill Theatre, where my friend
+bought tickets for the Book of Mormon. It was the first musical experience for
+me, and I think it was the best experience I had in New York, to be honest. I
+did not know what to expect at all, and the show was incredible. If anyone has a
+todo list for New York, they should add a Broadway show right at the to. Period.
 
 |           The High Line           |       Manhattan Street View       |
 | :-------------------------------: | :-------------------------------: |
@@ -188,7 +192,7 @@ should add a Broadway show right at the to. Period.
 
 It's not geographically accurate, but I will call Upper Manhattan to be the part
 from Columbus Circle to the Columbia University Campus, since the latter is the
-most northern point that I reached. It sounds almost like I'm an explorer.
+most northern point that I explored in Manhattan.
 
 My favorite place here is, undoubtedly, Central park. Even though it was the
 beginning of spring, the park still offered pretty landscapes, with enough
@@ -206,11 +210,11 @@ like Belvedere Castle and Cherry Hill.
 To the west of Central Park, my friend and I visited the Columbia University
 Campus, and just in time too, as the students there were taking graduation
 pictures. We blended in perfectly, given the fact that we look studenty
-ourselves and we spent most of the time taking pictures as well. It was a
-refreshing experience to visit a US university campus and compare to what you
-normally see in movies. After the photo shoot was over, we descendend through
-Morningside Park, grabbed coffee from a Starbucks on the road and went back to
-Central Park to continue the photo shoot, this time with squirrels.
+ourselves and spent most of the time taking pictures as well. It was a
+refreshing experience to visit a US university campus and compare to what I've
+seen in movies. After the photo shoot was over, we descendend through
+Morningside Park, grabbed coffee from a nearby Starbucks on the road and went
+back to Central Park to continue taking photos, this time with squirrels.
 
 To the east of Central Park is another area that was on top of my list, given
 its movies reference: the Upper East Side. The place seemed to me exactly as I'd
@@ -225,23 +229,22 @@ Also on the East Side, on the outskirts of Central Park, there's the
 Metropolitan Museum, where you probably need to spend a few days in order to
 fully experience it. I managed only 4 hours, I felt I was in a constant hurry,
 and missed many of its offerings. I went from Ancient Egypt, Rome and Greece, to
-Muslim and Far East Asia, early United States and everything in between. Some of
-my highlights include the Egyptian ruins (yes, actual ruins in the museum) and
-the American rooms arranged in the American History corner. But, to be honest,
-the whole collection is something to see. It's just that, being already familiar
-with art pieces from the ancient Mediterranean cultures, from many other
-European museums, the American and Asian parts from the MET impressed me the
-most.
+Muslim Central and Far East Asia, early United States and everything in between.
+Some of my highlights include the Egyptian ruins (yes, actual ruins in the
+museum) and the American rooms arranged in the American History corner. But, to
+be honest, the whole collection is something to see. Being already familiar with
+art pieces from the ancient Mediterranean cultures, from many other European
+museums, the American and Asian parts from the MET impressed me the most.
 
 ## Final Thoughts
 
 There are also other places that I have been and are not covered in the lines
-above, like the Rockefeller Center or Little Island. But if I will write about
-every single place or experience that impressed me in New York City, I would
+above, like the Rockefeller Center or Little Island. But if decide to write
+about every single place or experience that impressed me in New York, I would
 never finish this article, ever.
 
-Without a shadow of a doubt, I can say that I loved New York City, and that it
-was one of my best ideas to spend 10 days enjoying it as much as possible. It's
+Without a shadow of a doubt, I can say that I love New York City, and that it
+was one of my best ideas to spend 10 days and enjoy it as much as possible. It's
 #1 on my favorite cities in the world, and I have a feeling that it will stay
 there.
 
@@ -249,4 +252,4 @@ It also helped that my hosts were absolutely amazing, I could not have hoped for
 better ones.
 
 I was quite sad to leave, even though my holiday was far from ending. It was
-time to change the scenery quite dramatically. Next stop: Seattle.
+time to change the scenery a bit. Next stop: Seattle.
