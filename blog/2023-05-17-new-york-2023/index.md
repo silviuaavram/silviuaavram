@@ -9,7 +9,7 @@ hide_table_of_contents: false
 ![view over manhattan from the empire state building, photo by silviu alexandru avram](./manhattan.jpg)
 _Photo by Silviu Alexandru Avram_
 
-New York. The big apple. Jay-Z's city that never sleeps. Batman's Gotham.
+New York City. The big apple. Jay-Z's city that never sleeps. Batman's Gotham.
 Spiderman's home. Call it whatever you like, everyone knows what you are talking
 about. It's #1 most popular city for filming movies, topping the likes of Los
 Angeles, Paris and London.
