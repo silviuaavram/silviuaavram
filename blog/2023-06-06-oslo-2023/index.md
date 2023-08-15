@@ -47,12 +47,13 @@ places in Oslo, both for walks, but also for living. There are quite a few of
 neighbourhoods that were placed directly next to the water. Some areas also had
 construction sites going on, with new apartment buildings about to rise tall.
 
-As you would expect, these neighbourhoods were very modern, with contemporary
-style apartment buildings and offices, underground parking spaces and
-restaurants on the first floor. Iw would not particulary choose to live in this
-kind of places, as they seem to me quite soulless, but I do appreciate the
-architectural style of modern apartments next to water canals. Like a Venice
-built in the 21st century.
+As you would expect, these neighbourhoods have a very modern feel, with
+contemporary style apartment buildings and offices, underground parking spaces
+and restaurants on the first floor. I would probably not choose to live in these
+kinds of places, as they seem to me quite soulless, but that's just me. On the
+other hand, I do appreciate the architectural style of modern apartments next to
+water canals, like a Venice built in the 21st century. Or Hamburg, even though
+it has its own unique architectural flavour, which I found quite impressive.
 
 |           Oslo Opera            |           Oslo Canal View            |
 | :-----------------------------: | :----------------------------------: |
