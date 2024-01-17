@@ -10,6 +10,8 @@ hide_table_of_contents: false
 style={{textAlign: "center", display: 'block'}}>Praia da Arrifana,
 Portugal.</em>
 
+_I don't always do TDD, but when I do, I write about it._
+
 From the GitHub issue to the next library update on npm, we are going to push a
 feature request via the magic of Test Driven Development. It's easier than you
 think, and next time when the interviewer asks if you've heard about TDD, you
