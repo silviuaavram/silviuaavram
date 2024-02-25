@@ -189,7 +189,7 @@ places I've been to:
 
 |                       Central Park Selfie                       |
 | :-------------------------------------------------------------: |
-| ![selfie in central park with horia](./central-park-selfie.jpg) |
+| ![selfie in central park with horia](./central-park-fountain-selfie.jpg) |
 
 11 trips in total. Not bad. I want more. More is better.
 
