@@ -2,7 +2,7 @@
 slug: catania-2023
 title: Catania 2023
 authors: [silviuaavram]
-tags: [2023, traveling, catania, aci trezza, taormina, sicily]
+tags: [2023, traveling, catania, aci trezza, taormina, sicily, italy]
 hide_table_of_contents: false
 ---
 
