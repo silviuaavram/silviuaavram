@@ -12,8 +12,8 @@ Rotiro.</em>
 
 <br />
 
-_Truth be told, I don't mind palm trees with Christmas lights. I could live with
-that._
+_If you think you know already the meaning of tasteful luxury, visit this place
+and reset your standards._
 
 Today, damas y caballeros, we stay in beautiful Spain, but this time we leave
 the sunny South for Mardrid, the capital of football, culture and, well, Spain.
