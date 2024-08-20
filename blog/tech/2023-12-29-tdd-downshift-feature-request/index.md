@@ -2,7 +2,7 @@
 slug: tdd-downshift-feature-request
 title: TDD a Downshift feature request
 authors: [silviuaavram]
-tags: [react, testing library, how to, open source software]
+tags: [react, testing library, how to, open source software, downshift]
 hide_table_of_contents: false
 ---
 

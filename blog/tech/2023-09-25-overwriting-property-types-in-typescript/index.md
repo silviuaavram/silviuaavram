@@ -2,7 +2,7 @@
 slug: overwriting-property-types-in-typescript
 title: Overwriting Property Types in TypeScript
 authors: [silviuaavram]
-tags: [react, typescript, how to, open source software]
+tags: [react, typescript, how to, open source software, downshift]
 hide_table_of_contents: false
 ---
 
