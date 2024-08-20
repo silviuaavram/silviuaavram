@@ -207,7 +207,7 @@ The tests are quite self explanatory given our 5 expected use cases. For now,
 they will obviously fail, and we will consider our job done once we write the
 implementation and the tests are green.
 
-### The Implementation
+## The Implementation
 
 To recap, the getter prop is called on render, so we would like our check to be
 performed after the render. We will store the call information inside a React
