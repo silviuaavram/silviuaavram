@@ -10,8 +10,8 @@ hide_table_of_contents: false
 style={{textAlign: "center", display: 'block'}}>The Praetorian Fountain in
 Palermo.</em>
 
-_All stages in the software development lifecycle are important, but some some
-stages are more important than others._
+_All stages in the software development lifecycle are important, but some stages
+are more important than others._
 
 There are many important parts of the software development lifecycle. It's
 important to understand a business need, otherwise your feature won't be useful.
