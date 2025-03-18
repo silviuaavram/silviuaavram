@@ -2,7 +2,7 @@
 slug: athens-2024
 title: Athens 2024
 authors: [silviuaavram]
-tags: [2024, traveling, athens]
+tags: [2024, traveling, athens, greece]
 hide_table_of_contents: false
 ---
 
