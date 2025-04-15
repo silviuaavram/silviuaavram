@@ -22,7 +22,7 @@ there's so much to do, from lying on the beach to hiking next to a volcano. Our
 hopes were higher than the volcano, honestly, and we were not prepared to be
 disappointed.
 
-## Las American & Los Cristianos
+## Las Americas & Los Cristianos
 
 We initially decided to book an airbnb in the Las Americas surfing and slow
 lifing part of Adeje, but unfortunately, the place turned out to be quite bad,
