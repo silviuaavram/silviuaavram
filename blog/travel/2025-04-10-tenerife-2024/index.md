@@ -123,7 +123,7 @@ short of perfection.
 
 |            Cruz del Carmen Trail Landscape            |         Masca Landscape         |
 | :---------------------------------------------------: | :-----------------------------: |
-| ![cruz del carmen trail landscape](./anaga-hills.jpg) | ![masca landscape](./masca.jpg) |
+| ![cruz del carmen trail landscape](./anaga-trail.jpg) | ![masca landscape](./masca.jpg) |
 
 We walked next to ravines, then some people's homes, then through a sheepfold,
 and eventually we reached the village of Chinamada. There, we took a 2 minutes
