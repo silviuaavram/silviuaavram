@@ -180,15 +180,15 @@ places I've been to:
   hiked on the sea shore, I climbed on top of castles, I rested on the beach
   surrounded by dramatic cliffs. I also missed Web Summit this year, but really,
   whatever. I made the most out of it. Oh, and that entrecote, oh my.
-- Catania, November. Maybe my hopes for this one were quite high, and it was
-  maybe a bit disappointing, but I would still return to Sicily, maybe in the
-  spring is better.
-- Malaga, December. I'm going to return to the south of Spain, for sure. This
-  place is marvellous, the weather is incredible, the people are smiling, and I
-  loved it.
+- [Catania](https://silviuaavram.com/catania-2023), November. Maybe my hopes for
+  this one were quite high, and it was maybe a bit disappointing, but I would
+  still return to Sicily, maybe in the spring is better.
+- [Malaga](https://silviuaavram.com/malaga-2023), December. I'm going to return
+  to the south of Spain, for sure. This place is marvellous, the weather is
+  incredible, the people are smiling, and I loved it.
 
-|                       Central Park Selfie                       |
-| :-------------------------------------------------------------: |
+|                           Central Park Selfie                            |
+| :----------------------------------------------------------------------: |
 | ![selfie in central park with horia](./central-park-fountain-selfie.jpg) |
 
 11 trips in total. Not bad. I want more. More is better.
