@@ -11,8 +11,7 @@ style={{textAlign: "center", display: 'block'}}>Teatro Massimo in Palermo.</em>
 
 <br />
 
-_There's also a Starbies on the promenade, perfect to sip on a Cold Brew while
-watching surfers just getting destroyed by the waves. Oh, bliss._
+_If you are keeping a strict diet, avoid this place like the plague._
 
 Sicily deserved a part 2 after the
 [Catania trip](https://silviuaavram.com/catania-2023), and Palermo was the
