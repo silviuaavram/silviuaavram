@@ -6,7 +6,7 @@ tags: [2024, traveling, bellagio, italy, como, lecco]
 hide_table_of_contents: false
 ---
 
-![como lake view in lecco](./lecco-view.jpg) <em
+![como lake view in lecco](./lecco-view.webp) <em
 style={{textAlign: "center", display: 'block'}}>Lecco view of the Lake
 Como.</em>
 
@@ -41,7 +41,7 @@ a authentic Italian espresso and croissant.
 
 |             View of the Alps on Como              |          Boat on the Como Lake           |
 | :-----------------------------------------------: | :--------------------------------------: |
-| ![view of the alps on como](./como-alps-view.jpg) | ![boat on lake como](./boat-on-como.jpg) |
+| ![view of the alps on como](./como-alps-view.webp) | ![boat on lake como](./boat-on-como.webp) |
 
 Back on the road and Como was not that far away, and the ride was pleasant.
 Legend says that George Clooney owns a villa somewhere in the area, but I was
@@ -60,7 +60,7 @@ shore, every bird in the sky. Everything was just perfectly part of the scenery
 and it makes sense why owning a property on the lake is such a good idea. Just
 reading a book and enjoing a coffee. Niiice.
 
-![strava route of the bike route from bellagio to como and back](bellagio-como-strava-route.png)
+![strava route of the bike route from bellagio to como and back](bellagio-como-strava-route.webp)
 
 Overall it was 65km ride and someone deserved some rest.
 
@@ -77,7 +77,7 @@ part, the route went west.
 
 |             Lago di Piano             |                Villa del Balbianello                 |
 | :-----------------------------------: | :--------------------------------------------------: |
-| ![lago di piano](./lago-di-piano.jpg) | ![villa del balbianello](./villa-del-balbianello.jpg) |
+| ![lago di piano](./lago-di-piano.webp) | ![villa del balbianello](./villa-del-balbianello.webp) |
 
 The route was actually not that scenic to be honest, but it had a special bike
 lane all the way, which was much appreciated. However, there was nothing that
@@ -98,7 +98,7 @@ Wrong, as the downhill part was so steep, and it involved so many turns, it
 proved that all the torture involved for reaching it proved to be not such a
 good investment. Ideally, folks, do this one the other way around.
 
-![strava route of the bike route from bellagio to porlezza and back](porlezza-strava-route.png)
+![strava route of the bike route from bellagio to porlezza and back](porlezza-strava-route.webp)
 
 Anyway, the route was shorter than the first one, only 47km, but I believe it
 was quite more challenging, due to all that uphill part. But eating icecream
@@ -117,7 +117,7 @@ sunlight really made it even better.
 
 |               View of the Alps from Bellagio                |               Sunset over Como from Tremezzo                |
 | :---------------------------------------------------------: | :---------------------------------------------------------: |
-| ![view of the alps from bellagio](./bellagio-alps-view.jpg) | ![sunset over como from tremezzo](./tremezzo-como-view.jpg) |
+| ![view of the alps from bellagio](./bellagio-alps-view.webp) | ![sunset over como from tremezzo](./tremezzo-como-view.webp) |
 
 After going for a pizza (duuuh) at Pizzeria la Rosa and for a coffee (double
 duuh) at Coffee&Coffee, it was time to take the rental to the car lot, enjoy the

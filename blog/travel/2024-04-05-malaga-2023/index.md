@@ -6,7 +6,7 @@ tags: [2023, traveling, malaga, spain]
 hide_table_of_contents: false
 ---
 
-![view of Malaga from the Miradon de Gibralfaro](./malga-view-from-gibralfaro.jpg)
+![view of Malaga from the Miradon de Gibralfaro](./malga-view-from-gibralfaro.webp)
 <em style={{textAlign: "center", display: 'block'}}>View of Malaga from the
 Mirador de Gibralfaro.</em>
 
@@ -56,7 +56,7 @@ bread with cream, bananas, strawberries, blueberries and honey. Combined: magic.
 
 |                Walkway to Alcazaba                |                   Catedral de la Encarnacion                    |
 | :-----------------------------------------------: | :-------------------------------------------------------------: |
-| ![walkway to alcazaba](./walkway-to-alcazaba.jpg) | ![catedral de la encarnacion](./catedral-de-la-encarnacion.jpg) |
+| ![walkway to alcazaba](./walkway-to-alcazaba.webp) | ![catedral de la encarnacion](./catedral-de-la-encarnacion.webp) |
 
 Obviously, there are some sights to absolutely deserve a visit. But just walking
 through the city center is pleasant enough, while going to the stores, getting
@@ -79,7 +79,7 @@ stadium for the bullfighting shows.
 
 |                    Gibralfaro view to Malagueta                     |                   Alcazaba view to Malagueta                    |
 | :-----------------------------------------------------------------: | :-------------------------------------------------------------: |
-| ![gibralfaro view to malagueta](./gibralfaro-view-to-malagueta.jpg) | ![alcazaba view to malagueta](./alcazaba-view-to-malagueta.jpg) |
+| ![gibralfaro view to malagueta](./gibralfaro-view-to-malagueta.webp) | ![alcazaba view to malagueta](./alcazaba-view-to-malagueta.webp) |
 
 Another point of interest is the Malaga Museum, which definitely has a lot to
 offer. I found the painints from Moreno Villa particularly interesting, and
@@ -114,7 +114,7 @@ itself on the street.
 
 |               Marques de Larios with Christmas Decorations               |                       Historical Center Building                        |
 | :----------------------------------------------------------------------: | :---------------------------------------------------------------------: |
-| ![marques de larios with christmas decorations](./marques-de-larios.jpg) | ![historical center building in malaga](./historical-center-malaga.jpg) |
+| ![marques de larios with christmas decorations](./marques-de-larios.webp) | ![historical center building in malaga](./historical-center-malaga.webp) |
 
 Probably the holiday also helped to create all this joie de vivre, and we were
 lucky enough to be in the city center when they blasted music through the

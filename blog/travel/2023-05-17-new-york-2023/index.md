@@ -6,7 +6,7 @@ tags: [2023, traveling, usa, new york]
 hide_table_of_contents: false
 ---
 
-![view over manhattan from the empire state building, photo by silviu alexandru avram](./manhattan.jpg)
+![view over manhattan from the empire state building, photo by silviu alexandru avram](./manhattan.webp)
 _Photo by Silviu Alexandru Avram_
 
 New York City. The big apple. Jay-Z's city that never sleeps. Batman's Gotham.
@@ -39,7 +39,7 @@ hours, and there was always a queue at the ice cream place (ugh...).
 
 |               Manhattan Skyline               |                Jersey City Skyline                |
 | :-------------------------------------------: | :-----------------------------------------------: |
-| ![manhattan skyline](./manhattan-skyline.jpg) | ![jersey city skyline](./jersey-city-skyline.jpg) |
+| ![manhattan skyline](./manhattan-skyline.webp) | ![jersey city skyline](./jersey-city-skyline.webp) |
 
 On the waterfront, however, there was a different architectural story, as the
 brownstones were replaced by the all-too-familiar tall apartment and huge office
@@ -87,7 +87,7 @@ chose Blair Waldorf's favorite.
 
 |             The 9/11 Memorial             |             Trinity Church              |
 | :---------------------------------------: | :-------------------------------------: |
-| ![the 9/11 memorial](./9-11-memorial.jpg) | ![trinity church](./trinity-church.jpg) |
+| ![the 9/11 memorial](./9-11-memorial.webp) | ![trinity church](./trinity-church.webp) |
 
 Of course, I should also mention the Brooklyn Bridge, probably the most crowded
 bridge to cross on foot. Even with the crowds, the bridge offers a delightful
@@ -108,7 +108,7 @@ towards Soho and, of course, Noho.
 
 |              Brooklyn Bridge              |               World Trade Center                |
 | :---------------------------------------: | :---------------------------------------------: |
-| ![brooklyn bridge](./brooklyn-bridge.jpg) | ![world trade center](./world-trade-center.jpg) |
+| ![brooklyn bridge](./brooklyn-bridge.webp) | ![world trade center](./world-trade-center.webp) |
 
 Both Soho and Noho offer a stark change of scenery from Canal Street, with a
 lovely combination of shops, designer boutiques, chic restaurants and the New
@@ -143,7 +143,7 @@ these lines.
 
 |               Empire State View               |         New York Public Library         |
 | :-------------------------------------------: | :-------------------------------------: |
-| ![empire state view](./empire-state-view.jpg) | ![public library](./public-library.jpg) |
+| ![empire state view](./empire-state-view.webp) | ![public library](./public-library.webp) |
 
 A few streets to the north of Madison Square Park, there's the 34th street, with
 the Empire State Building, the Macy's store and The Morgan Library & Museum. I
@@ -168,7 +168,7 @@ visited.
 
 |             Manhattan West Office Buildings              |            Hudson Yards             |
 | :------------------------------------------------------: | :---------------------------------: |
-| ![manhattan west office buildings](./manhattan-west.jpg) | ![hudson yards](./hudson-yards.jpg) |
+| ![manhattan west office buildings](./manhattan-west.webp) | ![hudson yards](./hudson-yards.webp) |
 
 Last, but not least, there are three more places worth mentioning in Central
 Manhattan. Firstly, there's The High Line, a former New York Central Railroad
@@ -186,7 +186,7 @@ todo list for New York, they should add a Broadway show right at the to. Period.
 
 |           The High Line           |       Manhattan Street View       |
 | :-------------------------------: | :-------------------------------: |
-| ![the high line](./high-line.jpg) | ![street view](./street-view.jpg) |
+| ![the high line](./high-line.webp) | ![street view](./street-view.webp) |
 
 ## Upper Manhattan
 
@@ -205,7 +205,7 @@ like Belvedere Castle and Cherry Hill.
 
 |            Central Park             |              Columbus Circle              |
 | :---------------------------------: | :---------------------------------------: |
-| ![central-park](./central-park.jpg) | ![columbus circle](./columbus-circle.jpg) |
+| ![central-park](./central-park.webp) | ![columbus circle](./columbus-circle.webp) |
 
 To the west of Central Park, my friend and I visited the Columbia University
 Campus, and just in time too, as the students there were taking graduation
@@ -223,7 +223,7 @@ boutiques. Needless to say, I enjoyed the walks very much.
 
 |             Lincoln Plaza             |           9th Avenue View            |
 | :-----------------------------------: | :----------------------------------: |
-| ![lincoln plaza](./lincoln-plaza.jpg) | ![9th avenue view](./9th-avenue.jpg) |
+| ![lincoln plaza](./lincoln-plaza.webp) | ![9th avenue view](./9th-avenue.webp) |
 
 Also on the East Side, on the outskirts of Central Park, there's the
 Metropolitan Museum, where you probably need to spend a few days in order to

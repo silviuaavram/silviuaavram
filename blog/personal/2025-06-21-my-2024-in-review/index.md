@@ -6,7 +6,7 @@ tags: [2024, in review]
 hide_table_of_contents: false
 ---
 
-![lago di garda view from riva](./lago-di-garda.jpg) <em
+![lago di garda view from riva](./lago-di-garda.webp) <em
 style={{textAlign: "center", display: 'block'}}>View over Lago di Garda from
 Riva.</em>
 
@@ -95,7 +95,7 @@ significantly to lose fat and just feel better.
 
 |               Land of Legends Antalya                |                  Palermo Architecture                  |
 | :--------------------------------------------------: | :----------------------------------------------------: |
-| ![land of legends in antalya](./land-of-legends.jpg) | ![architecture of palermo](./palermo-architecture.jpg) |
+| ![land of legends in antalya](./land-of-legends.webp) | ![architecture of palermo](./palermo-architecture.webp) |
 
 I'm happy that my girlfriend supports my hiking hobby directly, and we went on a
 few trails both in Romania and in Tenerife. When I went to Tenerife by myself I
@@ -170,7 +170,7 @@ are:
 
 |              Us hiking in Tenerife              |
 | :---------------------------------------------: |
-| ![us hiking in tenerife](./hiking-tenerife.jpg) |
+| ![us hiking in tenerife](./hiking-tenerife.webp) |
 
 ## Goals for 2025
 

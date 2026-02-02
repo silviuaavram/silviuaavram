@@ -6,7 +6,7 @@ tags: [2023, traveling, catania, aci trezza, taormina, sicily, italy]
 hide_table_of_contents: false
 ---
 
-![view of Etna from the ancient theater in taormina](./etna-view-from-taormina.jpg)
+![view of Etna from the ancient theater in taormina](./etna-view-from-taormina.webp)
 <em style={{textAlign: "center", display: 'block'}}>View of Etna from the
 Ancient Theatre in Taormina.</em>
 
@@ -44,7 +44,7 @@ Elephant Fountain.
 
 |                Basilica Cattedrale di Sant'Agata                 |                 Teatro Massimo Bellini                  |
 | :--------------------------------------------------------------: | :-----------------------------------------------------: |
-| ![basilica cattedrale din sant'agata](./basilica-sant-agata.jpg) | ![teatro massimo bellini](./teatro-massimo-bellini.jpg) |
+| ![basilica cattedrale din sant'agata](./basilica-sant-agata.webp) | ![teatro massimo bellini](./teatro-massimo-bellini.webp) |
 
 Near the Etnea we found a very good (quite excelent, actually) restaurant,
 Deliziosa, and we enjoyed it so much we went there twice. The food was
@@ -80,7 +80,7 @@ totally worth it, even though we could not find much to do in the town itself.
 
 |               Taormina Building               |           Aci Trezza            |
 | :-------------------------------------------: | :-----------------------------: |
-| ![taormina building](./taormina-building.jpg) | ![aci trezza](./aci-trezza.jpg) |
+| ![taormina building](./taormina-building.webp) | ![aci trezza](./aci-trezza.webp) |
 
 Consequently, we went back in the car and drove towards Catania, only to stop on
 the way in Aci Trezza, a small town on the beach. We went for a walk on the

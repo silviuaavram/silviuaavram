@@ -6,7 +6,7 @@ tags: [2022, in review]
 hide_table_of_contents: false
 ---
 
-![silviu on a mountain trail, overlooking the Bucegi mountains, photo by oana vasilescu](./mountains-view.jpg)
+![silviu on a mountain trail, overlooking the Bucegi mountains, photo by oana vasilescu](./mountains-view.webp)
 _Photo by Oana Vasilescu_
 
 I started to write this post with an outlook of 2022's events, then decided
@@ -196,7 +196,7 @@ is. Incredible.
 
 |              Tiber River overlooking Trastevere              |                 The Vatican Square                  |
 | :----------------------------------------------------------: | :-------------------------------------------------: |
-| ![the tiber river overlooking trastevere](./tiber-river.jpg) | ![the vatican square at dusk](./vatican-square.jpg) |
+| ![the tiber river overlooking trastevere](./tiber-river.webp) | ![the vatican square at dusk](./vatican-square.webp) |
 
 Also incredible are the
 [Baths of Caracalla](https://goo.gl/maps/BAUChKSaoX2s6WwG8), and it's difficult
@@ -217,7 +217,7 @@ gardens. Just excellent.
 
 |                                     Portofino Harbor                                      |               Portofino Hills                |
 | :---------------------------------------------------------------------------------------: | :------------------------------------------: |
-| ![a view from the castello brown, overlooking the portofino harbor](./portofino-view.jpg) | ![hills of portofino](./portofino-hills.jpg) |
+| ![a view from the castello brown, overlooking the portofino harbor](./portofino-view.webp) | ![hills of portofino](./portofino-hills.webp) |
 
 My third trip involved a bike trail on the Loire Valley in France. I love biking
 trips. The itinerary is simple: check in at the hotel, visit the town, get up
@@ -231,7 +231,7 @@ for them. My favorite ones were
 
 |                      Chinon Castle                       |                      Montsoreau Castle                       |
 | :------------------------------------------------------: | :----------------------------------------------------------: |
-| ![chinon castle seen from a bridge](./chinon-castle.jpg) | ![chinon castle seen from a bridge](./montsoreau-castle.jpg) |
+| ![chinon castle seen from a bridge](./chinon-castle.webp) | ![chinon castle seen from a bridge](./montsoreau-castle.webp) |
 
 In July my friends and I went for a relaxing beach trip in Bulgaria's Sunny
 Beach. It was a perfect combination of sun, food, beach, bachata by the pool,
@@ -245,7 +245,7 @@ day visiting Saaremaa with a car. Or riding an electric scooter.
 
 |                              Saaremaa Beach                               |              Tallink Ship               |
 | :-----------------------------------------------------------------------: | :-------------------------------------: |
-| ![beach with rocks on the shore of saaremaa island](./saaremaa-beach.jpg) | ![the tallink ship](./tallinn-ship.jpg) |
+| ![beach with rocks on the shore of saaremaa island](./saaremaa-beach.webp) | ![the tallink ship](./tallinn-ship.webp) |
 
 My last trip of 2022 was the already mandatory
 [Web Summit conference](https://websummit.com/) in Lisboa, which I went to for
@@ -262,7 +262,7 @@ to do, but it does feel good when you catch the proper wave.
 
 |                      Monte Agudo in Lisboa                       |                       Portas do Sol in Lisboa                       |
 | :--------------------------------------------------------------: | :-----------------------------------------------------------------: |
-| ![lisboa view from the monte agudo viewpoint](./lisboa-view.jpg) | ![lisboa view from the porta do sol viewpoint](./lisboa-view-2.jpg) |
+| ![lisboa view from the monte agudo viewpoint](./lisboa-view.webp) | ![lisboa view from the porta do sol viewpoint](./lisboa-view-2.webp) |
 
 ## Hobbies
 
@@ -270,7 +270,7 @@ Because having fun is what it's all about.
 
 |            Banana Bread             |               Margarita Cocktail               |
 | :---------------------------------: | :--------------------------------------------: |
-| ![banana bread](./banana-bread.jpg) | ![a glass of margarita](./margarita-drink.jpg) |
+| ![banana bread](./banana-bread.webp) | ![a glass of margarita](./margarita-drink.webp) |
 
 There was significant progress in the kitchen this year. The winners are,
 without a doubt, the banana bread and the margarita cocktail. If my software
@@ -286,7 +286,7 @@ Mari and Ciucas.
 
 |                 Salsa Dancing                 |                         Piatra Mare hiking trail                          |
 | :-------------------------------------------: | :-----------------------------------------------------------------------: |
-| ![silviu dancing salsa](./latino-dancing.jpg) | ![view from a trail in the piatra mare mountains](./piatra-mare-view.jpg) |
+| ![silviu dancing salsa](./latino-dancing.webp) | ![view from a trail in the piatra mare mountains](./piatra-mare-view.webp) |
 
 I also continued to go for a run once every two days and to hit gym twice a
 week. On top of that there were a few snowboarding trips and the occasional

@@ -6,7 +6,7 @@ tags: [react, typescript, how to, open source software, downshift]
 hide_table_of_contents: false
 ---
 
-![the library in the morgan museum, new york](./the-morgan-library.jpg) <em
+![the library in the morgan museum, new york](./the-morgan-library.webp) <em
 style={{textAlign: "center", display: 'block'}}>The Morgan Library Museum in New
 York. Photo by Silviu Alexandru Avram</em>
 
@@ -374,7 +374,7 @@ function getToggleButtonProps<Rest>({
 Now, everything extra that is passed as rest will be reflected in the type for
 the return value.
 
-![TypeScript VSCode snippet reflecting the rest prop being present in the return value](vscode-rest-in-return.png)
+![TypeScript VSCode snippet reflecting the rest prop being present in the return value](vscode-rest-in-return.webp)
 
 We just crossed the finish line with half a leg.
 
@@ -390,7 +390,7 @@ pass _tabIndex: 0_ as a prop to the function, the return value type of
 _tabIndex_ will stay as _-1_, since that's what we defined in the
 `GetToggleButtonReturnValue` interface.
 
-![TypeScript VSCode snippet reflecting the tabIndex prop type being -1 though it has the value 0](vscode-tabindex-wrong-type.png)
+![TypeScript VSCode snippet reflecting the tabIndex prop type being -1 though it has the value 0](vscode-tabindex-wrong-type.webp)
 
 Sure, we can just make the type to be _number_ and move on, but that's not what
 we are actually returning by default. And it's not just about the _tabIndex_. We
@@ -446,7 +446,7 @@ function getToggleButtonProps<Rest>({
 
 And voilà, the result:
 
-![TypeScript VSCode snippet reflecting the tabIndex prop type being number in the returned value due to type override](vscode-tabindex-correct-type.png)
+![TypeScript VSCode snippet reflecting the tabIndex prop type being number in the returned value due to type override](vscode-tabindex-correct-type.webp)
 
 Also important to point out, due to the current type of the parameter
 ` GetToggleButtonProps & Rest`, you cannot pass just any type to the properties
@@ -467,7 +467,7 @@ will not reflect a property with the key as that string value in the return
 type. There is no way (that I know) to get the string value from an object key
 and use that as a key in a type. Consequently:
 
-![TypeScript VSCode snippet reflecting the customInnerRef string value for refKey not ending in the return type](vscode-no-custom-ref.png)
+![TypeScript VSCode snippet reflecting the customInnerRef string value for refKey not ending in the return type](vscode-no-custom-ref.webp)
 
 There's no _customInnerRef_ property in the return value, just the _ref_
 optional property that is going to be passed by default, in case we don't pass

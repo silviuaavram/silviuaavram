@@ -6,7 +6,7 @@ tags: [2023, traveling, lisbon, lagos, portugal, sintra, cascais]
 hide_table_of_contents: false
 ---
 
-![praia de vale figueiras at sunset](./vale-figueiras-hill.jpg) <em
+![praia de vale figueiras at sunset](./vale-figueiras-hill.webp) <em
 style={{textAlign: "center", display: 'block'}}>Praia de Vale Figueiras at
 sunset.</em>
 
@@ -51,7 +51,7 @@ steer on the wave, not just go straight on to the beach. Fingers crossed!
 
 |                     Praia de Vale Figueiras View                      |
 | :-------------------------------------------------------------------: |
-| ![view over the praia de value fugueiras](./vale-figueiras-beach.jpg) |
+| ![view over the praia de value fugueiras](./vale-figueiras-beach.webp) |
 
 If you're not drinking, then you're not playing. It's my favorite place in the
 Algarve. The beaches there are just out of this world. We went one evening the
@@ -66,7 +66,7 @@ one of the best experiences of my life.
 
 |                      Praia de Vale Figueiras Rocky Hills                       |                                View towards the Atlantic from the top of the hill                                |
 | :----------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
-| ![rocky hills next to the praia de vale figueiras](./vale-figueiras-rocks.jpg) | ![view towards the atlantic from the top of the hill on the praia de vale figueiras](./vale-figueiras-ocean.jpg) |
+| ![rocky hills next to the praia de vale figueiras](./vale-figueiras-rocks.webp) | ![view towards the atlantic from the top of the hill on the praia de vale figueiras](./vale-figueiras-ocean.webp) |
 
 Another great beach is Praia da Arrifana, and this one was more surfing
 friendly, as when we got there it was quite full of people, most of them with
@@ -80,7 +80,7 @@ the shallow waters. It was time for some pictures.
 
 |                 Praia da Arrifana Rock Formations                 |                Praia da Arrifana Steep and Rocky Hills                |
 | :---------------------------------------------------------------: | :-------------------------------------------------------------------: |
-| ![rock formations on the praia da arrifana](./arrifana-rocks.jpg) | ![steep and rocky hills over praia da arrifana](./arrifana-hills.jpg) |
+| ![rock formations on the praia da arrifana](./arrifana-rocks.webp) | ![steep and rocky hills over praia da arrifana](./arrifana-hills.webp) |
 
 ## Trilho dos Pescadores
 
@@ -97,7 +97,7 @@ daylight, and call my friend to pick me up with the car.
 
 |                          Ponta da Piedade near Lagos                          |                   Praia da Luz from near Rocha Negra                    |
 | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------: |
-| ![rock formations on the ponta da piedade near lagos](./ponta-da-piedade.jpg) | ![praia da luz seen from the hill with rocha negra](./praia-da-luz.jpg) |
+| ![rock formations on the ponta da piedade near lagos](./ponta-da-piedade.webp) | ![praia da luz seen from the hill with rocha negra](./praia-da-luz.webp) |
 
 I did a couple of such trips by myself, and it was refreshing. Just being on the
 trail with only a small backpack full of water, sandwiches, sunscreen and oat
@@ -114,7 +114,7 @@ rest while the ocean was throwing its waves towards the land, over and over.
 
 |                Gulf near Praia da Zora                 |                     Uphill view of a climb near Praia das Furnas                     |
 | :----------------------------------------------------: | :----------------------------------------------------------------------------------: |
-| ![a gulf near praia da zora](./gulf-praia-da-zora.jpg) | ![uphill view of the climb near praia das furnas](./climb-near-praia-das-furnas.jpg) |
+| ![a gulf near praia da zora](./gulf-praia-da-zora.webp) | ![uphill view of the climb near praia das furnas](./climb-near-praia-das-furnas.webp) |
 
 I arrived in Burgau, a very nice town which reminded me of a typical Greek town
 on the sea, with similar white houses that exuded the salty air of vacation,
@@ -132,9 +132,9 @@ pizza for dinner that evening.
 
 |                              Praia das Furnas                               |                    Gulf near Zavial                    |
 | :-------------------------------------------------------------------------: | :----------------------------------------------------: |
-| ![praia das furnas with an art piece made of rocks](./praia-das-furnas.jpg) |         ![gulf near zavial](./gulf-zavial.jpg)         |
+| ![praia das furnas with an art piece made of rocks](./praia-das-furnas.webp) |         ![gulf near zavial](./gulf-zavial.webp)         |
 |                              Gulf near Zavial                               |             Cactii in the wild near Burgau             |
-|                ![gulf near zavial](./uphill-gulf-zavial.jpg)                | ![cactii in the wild near burgau](./burgau-cactii.jpg) |
+|                ![gulf near zavial](./uphill-gulf-zavial.webp)                | ![cactii in the wild near burgau](./burgau-cactii.webp) |
 
 A few days later it was time for part two, so I took the bus that left me in the
 middle of some road, and I walked from there to Salema and resumed the trail.
@@ -154,7 +154,7 @@ pefect, hence the number of surfers in the water.
 
 |                            Praia do Zavial                             |             Uphill trail near Praia do Zavial             |
 | :--------------------------------------------------------------------: | :-------------------------------------------------------: |
-| ![praia do zavial with surfers in the distance](./praia-do-zavial.jpg) | ![uphill trail near praia do zavial](./uphill-zavial.jpg) |
+| ![praia do zavial with surfers in the distance](./praia-do-zavial.webp) | ![uphill trail near praia do zavial](./uphill-zavial.webp) |
 
 After the beach, I went back on the trail and I started to feel the overall
 exhaustion. I started to realise I was not going to reach Sagres, so I just
@@ -166,7 +166,7 @@ hiking for one trip, and I enjoyed every bit of it.
 
 |    Sky seemed to be on fire at sunset, near Praia da Ingrina    |
 | :-------------------------------------------------------------: |
-| ![beautiful sunset near praia da ingrina](./sunset-ingrina.jpg) |
+| ![beautiful sunset near praia da ingrina](./sunset-ingrina.webp) |
 
 ## Lisbon
 
@@ -192,7 +192,7 @@ well.
 
 |                 Lisbon Pantheon                  |               Lisbon alley                |
 | :----------------------------------------------: | :---------------------------------------: |
-| ![the pantheon in lisbon](./lisbon-pantheon.jpg) | ![an alley in lisbon](./lisbon-alley.jpg) |
+| ![the pantheon in lisbon](./lisbon-pantheon.webp) | ![an alley in lisbon](./lisbon-alley.webp) |
 
 However, the cherry on top was actually nothing related to fish or seafood. When
 in Lisbon, you must, and believe me, you must go to Affair Restaurante & Bar and
@@ -233,7 +233,7 @@ Of course, there's the option of taking a cab.
 
 |              The Park in Sintra on the way to the castles               |              The forest surrounding the Sintra Castles               |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------: |
-| ![the park part of the way to the castles in sintra](./sintra-park.jpg) | ![the forest surrounding the castles in singra](./sintra-forest.jpg) |
+| ![the park part of the way to the castles in sintra](./sintra-park.webp) | ![the forest surrounding the castles in singra](./sintra-forest.webp) |
 
 But there's no fun in that, so I grabbed a bottle of water and went for the
 climb. The first part was the trickiest, since it involved trying to correctly
@@ -263,7 +263,7 @@ Pena.
 
 |                 The Moorish Castle                  |                     View of the Atlantic from the Moorish Castle                     |
 | :-------------------------------------------------: | :----------------------------------------------------------------------------------: |
-| ![view of the moorish castle](./moorish-castle.jpg) | ![a view over the atlantic ocean from the moorish castle](./moorish-castle-view.jpg) |
+| ![view of the moorish castle](./moorish-castle.webp) | ![a view over the atlantic ocean from the moorish castle](./moorish-castle-view.webp) |
 
 Now, this second castle is indeed an actual proper chateau, built for the actual
 Portuguese royalty. On the exterior, the National Palace of pena is marvelous
@@ -279,7 +279,7 @@ of the tour and the number of people wanting to visit.
 
 |                 A view of the Pena Palace from below                 |                         Pena Palance from its courtyard                         |
 | :------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
-| ![pena palace photographed from below](./pena-castle-view-below.jpg) | ![pena palace viewed from one of its courtayrds](./pena-castle-from-inside.jpg) |
+| ![pena palace photographed from below](./pena-castle-view-below.webp) | ![pena palace viewed from one of its courtayrds](./pena-castle-from-inside.webp) |
 
 With the tour done, I returned to Sintra by the same road, only this time it was
 downhill, and stopped at the local Starbucks for some late lunch and a glass of
@@ -311,7 +311,7 @@ try to get closer to the water, so I could get a better view.
 
 |             The Cascais Marina              |              Boca do Inferno near Cascais              |
 | :-----------------------------------------: | :----------------------------------------------------: |
-| ![the cascais marina](./cascais-marina.jpg) | ![boca do inferno near cascais](./boca-do-inferno.jpg) |
+| ![the cascais marina](./cascais-marina.webp) | ![boca do inferno near cascais](./boca-do-inferno.webp) |
 
 After walking for some time on the coast, I reached Guia Lighthouse and decided
 to head back to town, as there wasn't anything else on the way to visit, at

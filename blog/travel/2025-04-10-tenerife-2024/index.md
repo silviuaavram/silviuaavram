@@ -6,7 +6,7 @@ tags: [2024, traveling, tenerife, spain, anaga, teide, las americas]
 hide_table_of_contents: false
 ---
 
-![anaga view of the ocean](./anaga-cliffs.jpg) <em
+![anaga view of the ocean](./anaga-cliffs.webp) <em
 style={{textAlign: "center", display: 'block'}}>Rural Park of Anaga view near
 the ocean.</em>
 
@@ -34,7 +34,7 @@ in a dump while in Paradise.
 
 |              Buenavista del Norte               |            Pine Forest on the road to Teide            |
 | :---------------------------------------------: | :----------------------------------------------------: |
-| ![buenavista del norte](./buenavista-norte.jpg) | ![pine forest on the road to teide](./pine-forest.jpg) |
+| ![buenavista del norte](./buenavista-norte.webp) | ![pine forest on the road to teide](./pine-forest.webp) |
 
 Los Cristianos is a nice place to stay while in Tenerife. The weather is great,
 it has a few beaches, albeit quite standard city beaches. The more exotic ones
@@ -77,7 +77,7 @@ to the summit.
 
 |          Mount Guajara Trail landscape          |         Teide Volcano         |
 | :---------------------------------------------: | :---------------------------: |
-| ![mount guajara trail landscape](./guajara.jpg) | ![teide volcano](./teide.jpg) |
+| ![mount guajara trail landscape](./guajara.webp) | ![teide volcano](./teide.webp) |
 
 And there's the sun. Look, the landscape does look like you're on Mars, and
 there are no trees on Mars. No shade. Zero. Consequently, it would have been a
@@ -123,7 +123,7 @@ short of perfection.
 
 |            Cruz del Carmen Trail Landscape            |         Masca Landscape         |
 | :---------------------------------------------------: | :-----------------------------: |
-| ![cruz del carmen trail landscape](./anaga-trail.jpg) | ![masca landscape](./masca.jpg) |
+| ![cruz del carmen trail landscape](./anaga-trail.webp) | ![masca landscape](./masca.webp) |
 
 We walked next to ravines, then some people's homes, then through a sheepfold,
 and eventually we reached the village of Chinamada. There, we took a 2 minutes
@@ -151,7 +151,7 @@ quick swim.
 
 |            Bollullo Santa Ursula Trail Landscape            |            Benijo Black Sand Beach            |
 | :---------------------------------------------------------: | :-------------------------------------------: |
-| ![bollullo santa ursula trail lanscape](./santa-ursula.jpg) | ![benijo black sand beach](./benijo-sand.jpg) |
+| ![bollullo santa ursula trail lanscape](./santa-ursula.webp) | ![benijo black sand beach](./benijo-sand.webp) |
 
 On the other hand, I believe that Tenerife is actually more about natural
 beaches, and there are quite a few of them, especially those with black sand.
@@ -178,7 +178,7 @@ the Anaga cliffs embracing the ocean. All from an altitude of 900m.
 
 |              Cabezo del Tejo Trail Landscape              |           Garachico           |
 | :-------------------------------------------------------: | :---------------------------: |
-| ![cabezo del tejo trail landscape](./cabezo-del-tejo.jpg) | ![garachico](./garachico.jpg) |
+| ![cabezo del tejo trail landscape](./cabezo-del-tejo.webp) | ![garachico](./garachico.webp) |
 
 Last hike I will mention, which is more of a walk, is on the road to the Teide
 national park, as you're going from the South. This area is covered with pine

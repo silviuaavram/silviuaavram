@@ -6,7 +6,7 @@ tags: [2024, traveling, palermo, italy, cefalu, mondello]
 hide_table_of_contents: false
 ---
 
-![teatro massimo in palermo](./teatro-massimo.jpg) <em
+![teatro massimo in palermo](./teatro-massimo.webp) <em
 style={{textAlign: "center", display: 'block'}}>Teatro Massimo in Palermo.</em>
 
 <br />
@@ -61,7 +61,7 @@ itself, nicknamed the "Fountain of Shame" due to its nude statues.
 
 |             Quattro Canti - Piazza Villena             |                 Inside the Teatro Massimo                 |
 | :----------------------------------------------------: | :-------------------------------------------------------: |
-| ![quattro canti - piazza villena](./quattro-canti.jpg) | ![inside the teatro massimo](./teatro-massimo-inside.jpg) |
+| ![quattro canti - piazza villena](./quattro-canti.webp) | ![inside the teatro massimo](./teatro-massimo-inside.webp) |
 
 The Quattro Canti are also gorgeous, displaying the Baroque style very well.
 Baroque can also be found on the nearby Chiesa e Monastero di Santa Caterina
@@ -113,7 +113,7 @@ Bastione di Capo Marchiafava and the nearby beach.
 
 |            Cefalu View            |               Palermo Cathedral               |
 | :-------------------------------: | :-------------------------------------------: |
-| ![cefalu view](./cefalu-view.jpg) | ![palermo cathedral](./palermo-cathedral.jpg) |
+| ![cefalu view](./cefalu-view.webp) | ![palermo cathedral](./palermo-cathedral.webp) |
 
 As for Mondello, it was our option of spending a day on the beach, and it's a
 very short ride from Palermo. The town is very cute, and it's famous for it's

@@ -6,7 +6,7 @@ tags: [2023, traveling, usa, seattle]
 hide_table_of_contents: false
 ---
 
-![seattle waterfront, photo by silviu alexandru avram](./seattle-waterfront.jpg)
+![seattle waterfront, photo by silviu alexandru avram](./seattle-waterfront.webp)
 _Photo by Silviu Alexandru Avram_
 
 We're back in Seattle, baby, and this time we're spending a full week here, not
@@ -34,7 +34,7 @@ even succulent plants, where the soil became rocky.
 
 |             Ballard House             |                Ballard Cherry Trees                 |
 | :-----------------------------------: | :-------------------------------------------------: |
-| ![ballard house](./ballard-house.jpg) | ![ballard cherry trees](./ballard-cherry-trees.jpg) |
+| ![ballard house](./ballard-house.webp) | ![ballard cherry trees](./ballard-cherry-trees.webp) |
 
 In Ballard downtown I found a few places to enjoy a coffee or lunch out, even
 though the area is pretty small. There was no queue at the local Salt&Straw, to
@@ -63,7 +63,7 @@ there was no need to rush.
 
 |              Carl S. English Botanical Garden               |             Discovery Park              |
 | :---------------------------------------------------------: | :-------------------------------------: |
-| ![carl s. english botanical garden](./botanical-garden.jpg) | ![discovery park](./discovery-park.jpg) |
+| ![carl s. english botanical garden](./botanical-garden.webp) | ![discovery park](./discovery-park.webp) |
 
 One of the places I enjoyed most is Discovery Park, which is bordering Ballard
 to the South, next to the coast. In order to reach it, I walked through the Carl
@@ -90,7 +90,7 @@ watch them train while the coach was providing motivation using a loud tone.
 
 |                 West Point Lighthouse                 |               University of Washington Building                |
 | :---------------------------------------------------: | :------------------------------------------------------------: |
-| ![west-point-lighthouse](./west-point-lighthouse.jpg) | ![university of washigton building](./university-building.jpg) |
+| ![west-point-lighthouse](./west-point-lighthouse.webp) | ![university of washigton building](./university-building.webp) |
 
 After a long walk westward through Wallingford, I eventually reached University
 District and the University of Washington campus. I was curious to see the
@@ -122,7 +122,7 @@ glass, but very good looking nonetheless.
 
 |             The Chihuly Garden and Glass Museum              |             The Seattle Great Wheel             |
 | :----------------------------------------------------------: | :---------------------------------------------: |
-| ![the chihuly garden and glass museum](./chihuly-museum.jpg) | ![the seattle great wheel](./seattle-wheel.jpg) |
+| ![the chihuly garden and glass museum](./chihuly-museum.webp) | ![the seattle great wheel](./seattle-wheel.webp) |
 
 My second visit was to the Museum of Pop Culture, which features collections
 from so many areas that makes pop culture, such as rap music, horror movies,
@@ -138,7 +138,7 @@ painting, so far, that I wanted to look at for more than 2 minutes.
 
 |              Smokey Sunrise, Astoria Harbor, by Cleveland Rocknell               |
 | :------------------------------------------------------------------------------: |
-| ![smokey sunrise, astoria harbor, by cleveland rocknell](./sunrise-painting.jpg) |
+| ![smokey sunrise, astoria harbor, by cleveland rocknell](./sunrise-painting.webp) |
 
 Apart from the museums, there isn't much of Downtown that stuck into memory.
 Sure, there's the Pike Market, with the first Starbucks, and its queue that

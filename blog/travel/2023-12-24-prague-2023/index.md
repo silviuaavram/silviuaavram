@@ -6,7 +6,7 @@ tags: [2023, traveling, prague, karlstejn]
 hide_table_of_contents: false
 ---
 
-![view of the old town from the Prague castle](./prague-mala-strana.jpg) <em
+![view of the old town from the Prague castle](./prague-mala-strana.webp) <em
 style={{textAlign: "center", display: 'block'}}>View of the old town from the
 Prague Castle.</em>
 
@@ -63,7 +63,7 @@ only got to see it last year for the first time.
 
 |             Narodni Muzeum              |                    View of the Narodni Divadlo from the Vltava                     |
 | :-------------------------------------: | :--------------------------------------------------------------------------------: |
-| ![narodni muzeum](./narodni-muzeum.jpg) | ![view of the narodni divadlo from the vltava river](./vltava-narodni-divadlo.jpg) |
+| ![narodni muzeum](./narodni-muzeum.webp) | ![view of the narodni divadlo from the vltava river](./vltava-narodni-divadlo.webp) |
 
 After crossing the square, I usually take a right on the Jindřišská street,
 until the Náměstí Republiky square, and admire some impressive buildings, such
@@ -106,7 +106,7 @@ garden if you happen to find an empty table, as the view is totally worth it.
 
 |                    Old Town View from the Petrin Tower                     |    View of the Charles Bridge from below, in Park Cihelná    |
 | :------------------------------------------------------------------------: | :----------------------------------------------------------: |
-| ![a view of old town from the petrin tower](./stare-mesto-from-petrin.jpg) | ![charles bridge view from park cihelná](./park-cihelna.jpg) |
+| ![a view of old town from the petrin tower](./stare-mesto-from-petrin.webp) | ![charles bridge view from park cihelná](./park-cihelna.webp) |
 
 Going further on the Loretánská, we eventually reach the Strahov Monastery and
 the Brewery, and both of them deserve a visit, for different reasons. The
@@ -157,7 +157,7 @@ complex, the Podolí swimming pool.
 
 |                   Charles University Botanical Garden                   |                 Vyšehrad                  |
 | :---------------------------------------------------------------------: | :---------------------------------------: |
-| ![charles university botanical garden](./botanicka-zahrada-karlove.jpg) | ![the church in vyšehrad](./vysehrad.jpg) |
+| ![charles university botanical garden](./botanicka-zahrada-karlove.webp) | ![the church in vyšehrad](./vysehrad.webp) |
 
 I did mention Vinohrady as the perfect place to book a hotel or an apartment,
 and it's true for many reasons. First of all, it's quiet. Second of all, it's
@@ -205,7 +205,7 @@ of.
 
 |                    Prague Zoo                    |                          Vltava near Zbraslav                           |
 | :----------------------------------------------: | :---------------------------------------------------------------------: |
-| ![elephants at the prague zoo](./prague-zoo.jpg) | ![the vltava river near the town of zbraslav](./vltava-near-prague.jpg) |
+| ![elephants at the prague zoo](./prague-zoo.webp) | ![the vltava river near the town of zbraslav](./vltava-near-prague.webp) |
 
 Now, of course it's not just Prague. The Czech Republic has so much more to
 offer. It's a very nice country with an abundance of scenery and beautiful
@@ -252,7 +252,7 @@ that might have helped.
 
 |                   Prague to Karlštejn bike trip which you should not take                   |
 | :-----------------------------------------------------------------------------------------: |
-| ![a strava map of the bike trip from prague to karlštejn](./prague-karlstejn-bike-trip.jpg) |
+| ![a strava map of the bike trip from prague to karlštejn](./prague-karlstejn-bike-trip.webp) |
 
 But mom didn't raise no quitter, so I took the short route, through the woods.
 Everything was wet, I was on a pink bike, with a basket, on a slippery dirt
