@@ -45,7 +45,7 @@ set goals for myself. Let me review them, in order.
 
 > Done! Angular fundamentals was indeed helpful, even though the course did not
 > cover the latest way to use Angular, via signals. But still, it allowed me to
-> understand some things that were completely alient at the time.
+> understand some things that were completely alien at the time.
 
 - Refactor Downshift to Typescript and release useTagList.
 
