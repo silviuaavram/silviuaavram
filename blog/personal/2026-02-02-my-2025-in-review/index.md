@@ -172,7 +172,7 @@ goals:
 - Improve MaterialUI suite of libraries and be recognized for my contributions.
 - Remove Downshift's useMultipleSelection hook.
 - Refactor all Downshift hooks to use Typescript.
-- Improve the library's perf and quanify it.
+- Improve the library's perf and quantify it.
 - Write 2 blog posts about tech and what I've learned.
 - Create a presentation and submit it to a conference to be accepted.
 - Decrease my mobile screen time to 2 hours.
