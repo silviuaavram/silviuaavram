@@ -43,7 +43,7 @@ set goals for myself. Let me review them, in order.
 
 - 1 course from Frontend Masters done.
 
-> Done! Angular fundamentals was indeed helpful, even thought the course did not
+> Done! Angular fundamentals was indeed helpful, even though the course did not
 > cover the latest way to use Angular, via signals. But still, it allowed me to
 > understand some things that were completely alient at the time.
 
