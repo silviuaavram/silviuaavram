@@ -124,6 +124,11 @@ books I managed to read were not bad at all.
 4. The Da Vinci Code, _Dan Brown_. I had little expectations from it, given that
    I'm not really a fan of the genre, but it impressed me by the pace of the
    story, as well as the plot itself. Really good!
+5. The Grapes of Wrath, _John Steinbeck_. A story about a family that confronts
+   the devastating effects of the Great Depression over the Mid West. It was
+   really hard for me to keep up with their story filled with unfortunate
+   events, but I was impressed by their willingness to keep on going in their
+   search of a better life.
 
 That's it, that's the list. I need to do better next year, damn.
 
