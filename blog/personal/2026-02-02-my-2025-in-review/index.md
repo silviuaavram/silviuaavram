@@ -115,7 +115,7 @@ conferences, which is something that really excites me.
 
 ## Hobbies
 
-I stopped taking salsa classes with a heavy heart, but with at lesat 4 days per
+I stopped taking salsa classes with a heavy heart, but with at least 4 days per
 week in the gym, it's really hard to just stay at home and appreciate some time
 not doing much, or just cooking something and hanging out. I just had to do it,
 and I'm not sure if I will resume going again, even though I miss it very much.
