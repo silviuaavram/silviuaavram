@@ -143,7 +143,7 @@ This year, there were far fewer trips, but they were longer.
 - Milano, Lago Maggiore and Cinque Terre. The Easter trip was great in spite of
   the weather not being the best. It did not allow us to fully explore Maggiore
   by bike, and when we went to Cinque Terre, it rained all day.
-- Zakynthos and Bari. The Greco-Italian trip was a perfect combination betwen
+- Zakynthos and Bari. The Greco-Italian trip was a perfect combination between
   beach holiday and a city break. It involved a great cruise around the
   Zakynthos Island, the perfect Italian cuisine of Bari and a series of road
   trips to Matera and Monopoli.
