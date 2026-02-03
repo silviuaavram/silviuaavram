@@ -6,7 +6,7 @@ tags: [2025, in review]
 hide_table_of_contents: false
 ---
 
-![library from a cafe in chiang mai, thailand](./chiang-mai-cafe.jpg) <em
+![library from a cafe in chiang mai, thailand](./chiang-mai-cafe.webp) <em
 style={{textAlign: "center", display: 'block'}}>A library inside a cafe in
 Chiang Mai, Thailand.</em>
 
