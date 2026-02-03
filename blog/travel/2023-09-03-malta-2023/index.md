@@ -6,7 +6,7 @@ tags: [2023, traveling, malta, valletta]
 hide_table_of_contents: false
 ---
 
-![view of the valetta harbour entry](./valletta-harbour.jpg) _Photo by Silviu
+![view of the valetta harbour entry](./valletta-harbour.webp) _Photo by Silviu
 Alexandru Avram_
 
 _Who would have thought that Malta during August is so hot and humid? If you
@@ -47,7 +47,7 @@ to buy and pack anything extra.
 
 |               Valletta Sea View               |              Valletta Street              |
 | :-------------------------------------------: | :---------------------------------------: |
-| ![valletta sea view](./valletta-sea-view.jpg) | ![valletta street](./valletta-street.jpg) |
+| ![valletta sea view](./valletta-sea-view.webp) | ![valletta street](./valletta-street.webp) |
 
 First things first. The entrance to the old city is spectacular. The Triton
 Fountain, followed by the City Gate, is Valletta's way of saying that it was
@@ -73,7 +73,7 @@ buildings boasting ornamental balconies known as _gallarija_.
 
 |              Upper Barrakka Gardens               |            The Triton Fountain            |
 | :-----------------------------------------------: | :---------------------------------------: |
-| ![upper barrakka gardens](./barrakka-gardens.jpg) | ![triton fountain](./triton-fountain.jpg) |
+| ![upper barrakka gardens](./barrakka-gardens.webp) | ![triton fountain](./triton-fountain.webp) |
 
 I strongly recommend a couple of places to go while in Valletta. Firstly, if you
 enjoy cocktails as much as me, definitely check out Kamy Cocktail Bar, and try
@@ -99,7 +99,7 @@ a lot of moving around.
 
 |            Mdina Street View             |           Mdina Blue Door            |
 | :--------------------------------------: | :----------------------------------: |
-| ![mdina street view](./mdina-street.jpg) | ![mdina blue door](./mdina-door.jpg) |
+| ![mdina street view](./mdina-street.webp) | ![mdina blue door](./mdina-door.webp) |
 
 The famous blue door is not the only picturesque spot in Mdina. There are other
 colorful doors as well. And the buildings are also well maintained and
@@ -130,7 +130,7 @@ coffee break at the Cafe Riche and then ordered a Bolt to Marsaxlokk.
 
 |                    Senglea Harbour                     |                      Marsaxlokk Harbour                      |
 | :----------------------------------------------------: | :----------------------------------------------------------: |
-| ![boats in the senglea harbour](./senglea-harbour.jpg) | ![boats in the marsaxlokk harbour](./marsaxlokk-harbour.jpg) |
+| ![boats in the senglea harbour](./senglea-harbour.webp) | ![boats in the marsaxlokk harbour](./marsaxlokk-harbour.webp) |
 
 This small fishing town on the Western Malta coast is a great place to go for
 dinner and enjoy a fish or a seafood course right next to the sea. The harbour

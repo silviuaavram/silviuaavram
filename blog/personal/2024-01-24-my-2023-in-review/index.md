@@ -6,7 +6,7 @@ tags: [2023, in review]
 hide_table_of_contents: false
 ---
 
-![silviu hiking in the baiului mountains](./baiului-mountains.jpg) <em
+![silviu hiking in the baiului mountains](./baiului-mountains.webp) <em
 style={{textAlign: "center", display: 'block'}}>View over the Baiului
 Mountains.</em>
 
@@ -93,7 +93,7 @@ going again next year.
 
 |                        Algarve Beach Hiking                         |                      Guns 'N Roses Concert                       |
 | :-----------------------------------------------------------------: | :--------------------------------------------------------------: |
-| ![selfie over a beach in algarve while hiking](./algarve-beach.jpg) | ![guns 'n roses concert view from the stage](./guns-n-roses.jpg) |
+| ![selfie over a beach in algarve while hiking](./algarve-beach.webp) | ![guns 'n roses concert view from the stage](./guns-n-roses.webp) |
 
 Another event worth mentioning for me was the Guns 'N Roses concert from July at
 the Arena Nationala. I was lucky to receive tickets for the concert and wow,
@@ -189,7 +189,7 @@ places I've been to:
 
 |                           Central Park Selfie                            |
 | :----------------------------------------------------------------------: |
-| ![selfie in central park with horia](./central-park-fountain-selfie.jpg) |
+| ![selfie in central park with horia](./central-park-fountain-selfie.webp) |
 
 11 trips in total. Not bad. I want more. More is better.
 

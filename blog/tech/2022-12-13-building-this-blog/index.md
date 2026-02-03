@@ -6,7 +6,7 @@ tags: [react, docusaurus, how to]
 hide_table_of_contents: false
 ---
 
-![a heap of logs next to a mountain cabin in the piatra mare mountains, photo by oana vasilescu](./mountain-cabin.jpg)
+![a heap of logs next to a mountain cabin in the piatra mare mountains, photo by oana vasilescu](./mountain-cabin.webp)
 _Photo by Oana Vasilescu_
 
 Building a digital blog should not be, theoretically, too hard to accomplish.

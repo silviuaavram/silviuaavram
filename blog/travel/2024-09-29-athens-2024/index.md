@@ -6,7 +6,7 @@ tags: [2024, traveling, athens, greece]
 hide_table_of_contents: false
 ---
 
-![the odeon of herodes atticus](./odeon-of-herodes-atticus.jpg) <em
+![the odeon of herodes atticus](./odeon-of-herodes-atticus.webp) <em
 style={{textAlign: "center", display: 'block'}}>The Odeon of Herodes
 Atticus.</em>
 
@@ -43,7 +43,7 @@ things but also late meals.
 
 |           Building on the Acropolis           |             View of Athens from the Acropolis              |
 | :-------------------------------------------: | :--------------------------------------------------------: |
-| ![building on the acropolis](./acropolis.jpg) | ![view of athens from the acropilis](./view-of-athens.jpg) |
+| ![building on the acropolis](./acropolis.webp) | ![view of athens from the acropilis](./view-of-athens.webp) |
 
 There's also a nice Turkish place just next to Koukaki, Cappadocia Grill Cafe,
 where you can enjoy a good old Adana Kebab or some chicken if you prefer lighter
@@ -71,7 +71,7 @@ probably make the top list of visiting.
 
 |               View of the Acropolis from a nearby hill               |                   The garden and a view of Stavros Niarchos                    |
 | :------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
-| ![view of the acropilis from a nearby hill](./view-of-acropolis.jpg) | ![the gandern and the stavron niarchos](./view-of-stavros-niarchos-center.jpg) |
+| ![view of the acropilis from a nearby hill](./view-of-acropolis.webp) | ![the gandern and the stavron niarchos](./view-of-stavros-niarchos-center.webp) |
 
 I had some other nice walks as well, like the ones in the Athens National
 Garden, next to the Syntagma square. Or the ones around Kallimármaro and

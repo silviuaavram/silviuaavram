@@ -6,7 +6,7 @@ tags: [react, testing library, how to, open source software, jest dom]
 hide_table_of_contents: false
 ---
 
-![the praetorian fountain in palermo](./praetorian-fountain-palermo.jpg) <em
+![the praetorian fountain in palermo](./praetorian-fountain-palermo.webp) <em
 style={{textAlign: "center", display: 'block'}}>The Praetorian Fountain in
 Palermo.</em>
 

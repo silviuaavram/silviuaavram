@@ -6,7 +6,7 @@ tags: [2024, traveling, madrid, spain]
 hide_table_of_contents: false
 ---
 
-![parco del rotiro lake](./el-retiro-park.jpg) <em
+![parco del rotiro lake](./el-retiro-park.webp) <em
 style={{textAlign: "center", display: 'block'}}>View over the lake in Parco del
 Rotiro.</em>
 
@@ -36,7 +36,7 @@ feast your eyes upon.
 
 |                  Catedral de la Almueda                   |            Room inside Royal Palace of Madrid            |
 | :-------------------------------------------------------: | :------------------------------------------------------: |
-| ![catedral de la almudena](./catedral-de-la-almudena.jpg) | ![inside the royal palace of madrid](./royal-palace.jpg) |
+| ![catedral de la almudena](./catedral-de-la-almudena.webp) | ![inside the royal palace of madrid](./royal-palace.webp) |
 
 We left the palace exactly when it was closing time, so there was no more time
 left to visit the Almueda Cathedral unfortunately, but we did enjoy a very nice
@@ -64,7 +64,7 @@ collection of bonsai trees.
 
 |                 Monument of Alfonso XII                 |              Madrid Street at Dusk               |
 | :-----------------------------------------------------: | :----------------------------------------------: |
-| ![monument of alfonso xii](./monumento-alfonso-xii.jpg) | ![street in madrid at dusk](./madrid-street.jpg) |
+| ![monument of alfonso xii](./monumento-alfonso-xii.webp) | ![street in madrid at dusk](./madrid-street.webp) |
 
 After leaving the botanical garden we went for a stroll through the upscale Goya
 neighbourhood. It's nice over here. All buildings are very, very well
@@ -94,7 +94,7 @@ them. This team knows what winning is about.
 
 |               Santiago Bernabeu Stadium               |                 Gran Via                  |
 | :---------------------------------------------------: | :---------------------------------------: |
-| ![santiago bernabeu stadium](./santiago-bernabeu.jpg) | ![gran via view at night](./gran-via.jpg) |
+| ![santiago bernabeu stadium](./santiago-bernabeu.webp) | ![gran via view at night](./gran-via.webp) |
 
 After we left the stadium we went back towards the city center by foot and we
 stopped at the Sorolla Museum on the way. It's actually the former house and
@@ -108,7 +108,7 @@ pond and enjoying the shade of the trees.
 
 |                 Sorolla Museum Garden                 |                  Sorolla Museum Interior                  |
 | :---------------------------------------------------: | :-------------------------------------------------------: |
-| ![sorolla museum garden](./sorolla-museum-garden.jpg) | ![sorolla museum interior](./sorolla-museum-interior.jpg) |
+| ![sorolla museum garden](./sorolla-museum-garden.webp) | ![sorolla museum interior](./sorolla-museum-interior.webp) |
 
 The last but not least landmark I would like to mention is the Gran Via, and I
 would not miss it especially during the night, when I believe it really shines.

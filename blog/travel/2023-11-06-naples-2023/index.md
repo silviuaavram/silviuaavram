@@ -6,7 +6,7 @@ tags: [2023, traveling, naples, sorrento, amalfi coast, positano]
 hide_table_of_contents: false
 ---
 
-![view of the Vesuvius volcano from the sant'elmo castle in naples](./naples-vesuvius-sant-elmo.jpg)
+![view of the Vesuvius volcano from the sant'elmo castle in naples](./naples-vesuvius-sant-elmo.webp)
 <em style={{textAlign: "center", display: 'block'}}>View of Naples and Vesuvius
 from the Sant'Elmo Castle.</em>
 
@@ -62,7 +62,7 @@ dei Tribunali, where things became a bit better.
 
 |                   Museo Del Corallo Ascione                   |                      Via dei Tribunali                      |
 | :-----------------------------------------------------------: | :---------------------------------------------------------: |
-| ![museo del corallo ascione](./museo-del-corallo-ascione.jpg) | ![view from the via dei tribunali](./via-dei-tribunali.jpg) |
+| ![museo del corallo ascione](./museo-del-corallo-ascione.webp) | ![view from the via dei tribunali](./via-dei-tribunali.webp) |
 
 This very long street sums up a lot about the city. It's quite narrow, so they
 made it a one-way street, although it could be easily be designated for
@@ -99,7 +99,7 @@ general.
 
 |                   Naples Waterfront View over Vesuvius                    |
 | :-----------------------------------------------------------------------: |
-| ![naples waterfront view over vesuvius](./naples-vesuvius-waterfront.jpg) |
+| ![naples waterfront view over vesuvius](./naples-vesuvius-waterfront.webp) |
 
 As we left the park, we arrived in the San Ferdinando neighborhood, which is
 significantly different from the neighbourhoods we've seen so far. It's near the
@@ -137,7 +137,7 @@ for the drink.
 
 |                 Sorrento Vesuvius View                  |               Sorrento Hills               |
 | :-----------------------------------------------------: | :----------------------------------------: |
-| ![sorrento vesuvius view](./sorrento-vesuvius-view.jpg) | ![hills of sorrento](./sorrento-hills.jpg) |
+| ![sorrento vesuvius view](./sorrento-vesuvius-view.webp) | ![hills of sorrento](./sorrento-hills.webp) |
 
 We had a great lunch at the Fuoro51, went for an aimless walk through the
 streets, then headed towards the beach and enjoyed the views towards the town
@@ -175,7 +175,7 @@ higher is not necessarily better here.
 
 |             Positano Hills              |                        Positano View from Above                         |
 | :-------------------------------------: | :---------------------------------------------------------------------: |
-| ![positano hills](./positano-hills.jpg) | ![a view over positano and the amalfi coast](./positano-from-above.jpg) |
+| ![positano hills](./positano-hills.webp) | ![a view over positano and the amalfi coast](./positano-from-above.webp) |
 
 The second objective was to have lunch, so we went to the Casa e Bottega
 restaurant, which featured a meanu that was quite brunchy for the location, but

@@ -6,7 +6,7 @@ tags: [2023, traveling, norway, oslo]
 hide_table_of_contents: false
 ---
 
-![oslo opera, photo by silviu alexandru avram](./oslo-view.jpg) _Photo by Silviu
+![oslo opera, photo by silviu alexandru avram](./oslo-view.webp) _Photo by Silviu
 Alexandru Avram_
 
 - Q: Do you know what is better than the current trip?
@@ -57,7 +57,7 @@ it has its own unique architectural flavour, which I found quite impressive.
 
 |           Oslo Opera            |           Oslo Canal View            |
 | :-----------------------------: | :----------------------------------: |
-| ![oslo opera](./oslo-opera.jpg) | ![oslo canal view](./oslo-canal.jpg) |
+| ![oslo opera](./oslo-opera.webp) | ![oslo canal view](./oslo-canal.webp) |
 
 One such place is Tjuvholmen, and Tjuvholmen has quite a lot to offer. It has
 canals with parking space for boats. It has the modern apartments and offices,
@@ -80,7 +80,7 @@ pijamas.
 
 |               Sørengautstikkeren                |         Oslo City Center          |
 | :---------------------------------------------: | :-------------------------------: |
-| ![Sørengautstikkeren](./oslo-neighbourhood.jpg) | ![oslo center](./oslo-center.jpg) |
+| ![Sørengautstikkeren](./oslo-neighbourhood.webp) | ![oslo center](./oslo-center.webp) |
 
 Of course, there's also the city center, with quite a large number of bars,
 usually packed in the evening. Overall, it's your usual European city center,
@@ -121,7 +121,7 @@ I don't believe there are many like it.
 
 |             Fram Museum             |            Museum of Cultural History            |
 | :---------------------------------: | :----------------------------------------------: |
-| ![the fram museum](./fram-ship.jpg) | ![museum of cultural history](./oslo-museum.jpg) |
+| ![the fram museum](./fram-ship.webp) | ![museum of cultural history](./oslo-museum.webp) |
 
 On the more convetional side of museums, we went to the National Museum, which
 includes a very impressive collection overall, not just works of Munch. It

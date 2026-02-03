@@ -6,7 +6,7 @@ tags: [react, testing library, how to, open source software, downshift]
 hide_table_of_contents: false
 ---
 
-![praia da arrifana, portugal](./praia-da-arrifana.jpg) <em
+![praia da arrifana, portugal](./praia-da-arrifana.webp) <em
 style={{textAlign: "center", display: 'block'}}>Praia da Arrifana,
 Portugal.</em>
 

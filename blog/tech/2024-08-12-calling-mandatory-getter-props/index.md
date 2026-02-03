@@ -6,7 +6,7 @@ tags: [react, testing library, how to, open source software, downshift]
 hide_table_of_contents: false
 ---
 
-![hilly landscape in the village of simon, brasov](./hilly-landscape-simon.jpg) <em
+![hilly landscape in the village of simon, brasov](./hilly-landscape-simon.webp) <em
 style={{textAlign: "center", display: 'block'}}>Hilly Landscape in the Village
 of Şimon.</em>
 

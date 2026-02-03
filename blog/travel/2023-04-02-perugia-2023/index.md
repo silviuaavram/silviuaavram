@@ -6,7 +6,7 @@ tags: [2023, traveling, italy, perugia]
 hide_table_of_contents: false
 ---
 
-![a field of daffodils near the lake trasimeno, photo by silviu alexandru avram](./field-of-flowers.jpg)
+![a field of daffodils near the lake trasimeno, photo by silviu alexandru avram](./field-of-flowers.webp)
 _Photo by Silviu Alexandru Avram_
 
 It was a lovely day of spring, on the 19th of March to be exact. I am a very big
@@ -78,7 +78,7 @@ used anything like it before, it was actually very exciting!
 
 |           Cloudy skies over Perugia           |              Church of Sant'Ercolano               |
 | :-------------------------------------------: | :------------------------------------------------: |
-| ![cloudy sky over perugia](./perugia-sky.jpg) | ![church of sant'ercolano](./perugia-building.jpg) |
+| ![cloudy sky over perugia](./perugia-sky.webp) | ![church of sant'ercolano](./perugia-building.webp) |
 
 We found Terrazza del Mercato with a gorgeous view of Umbria and the mountains
 to the East. Great place to sip your aperol and enjoy the graphics of life. We
@@ -127,7 +127,7 @@ and service, with the best bread I had for a while. Coperto well spent.
 
 |         Silviu riding a bike near Lago Trasimeno         |              Sunset over Lago Trasimeno               |
 | :------------------------------------------------------: | :---------------------------------------------------: |
-| ![silviu on a bike near trasimeno](./trasimeno-bike.jpg) | ![sunset over lago trasimeno](./trasimeno-sunset.jpg) |
+| ![silviu on a bike near trasimeno](./trasimeno-bike.webp) | ![sunset over lago trasimeno](./trasimeno-sunset.webp) |
 
 Back on the road, we resumed the journey, with a few stops along the way, one of
 which was a field of daffodils. No, not your usual Instagram rapeseed photos,
@@ -159,7 +159,7 @@ Grozavesti intersection.
 
 |             Assisi Castle             |            View from Assisi            |
 | :-----------------------------------: | :------------------------------------: |
-| ![assisi castle](./assisi-castle.jpg) | ![view from assisi](./assisi-town.jpg) |
+| ![assisi castle](./assisi-castle.webp) | ![view from assisi](./assisi-town.webp) |
 
 On the (brief) bright side, the churches were very beautiful, especially the
 main one, Basilica of San Francesco d'Assisi. Apart from them and the view point
