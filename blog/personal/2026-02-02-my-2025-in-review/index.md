@@ -147,7 +147,7 @@ This year, there were far fewer trips, but they were longer.
   beach holiday and a city break. It involved a great cruise around the
   Zakynthos Island, the perfect Italian cuisine of Bari and a series of road
   trips to Matera and Monopoli.
-- Thailand, Singapore and Kuala Lumpur. That trip that was absolutely perfect. .
+- Thailand, Singapore and Kuala Lumpur. That trip that was absolutely perfect.
   A trip of 25 days of exploring in Southeast Asia, that took us from the
   temples and skyscrapers of Bangkok, to the elephant parks and nature of Chiang
   Mai, to the pristine beaches and incredible island landscapes of Krabi and
