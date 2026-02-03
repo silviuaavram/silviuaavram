@@ -126,7 +126,7 @@ doing it more again. When it comes to nature, I confess that many of my plants
 decided to die, after they were barely surviving with not much sun exposure.
 Nothing I could do about it, yet.
 
-I did not ready that much last year, so the list is quite tiny:
+I did not read that much last year, so the list is quite tiny:
 
 1. Lost Illusions, Balzac. Always liked his literary style, and one of his
    favorite subjects: the coming up of a character that, due to their
