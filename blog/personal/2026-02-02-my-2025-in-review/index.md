@@ -121,7 +121,7 @@ not doing much, or just cooking something and hanging out. I just had to do it,
 and I'm not sure if I will resume going again, even though I miss it very much.
 
 Another hobby that suffered is hiking, but I plan to pick this up back in 2026.
-It always helped, me both physically and mentally, and I see no reason why not
+It always helped me, both physically and mentally, and I see no reason why not
 doing it more again. When it comes to nature, I confess that many of my plants
 decided to die, after they were barely surviving with not much sun exposure.
 Nothing I could do about it, yet.
