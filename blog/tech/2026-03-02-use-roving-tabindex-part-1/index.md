@@ -32,7 +32,7 @@ faster and way more intuitive.
 ## Benefits
 
 Before going into the details, I believe it's crucial to explain the benefits,
-so the purpose of building a Roving Tabindex, or importing one at laest, is a
+so the purpose of building a Roving Tabindex, or importing one at least, is a
 great step towards improving your App or Design System's UX and Accessibility.
 Let's list them:
 
@@ -64,7 +64,7 @@ tabindex strategy:
 7. Disabled items should be skipped when navigating, but how do we mark a
    disabled item?
    - "disabled" attribute.
-   - "aria-disabled" attribute of value "true.
+   - "aria-disabled" attribute of value "true".
    - no "tabindex" value.
    - custom implementation.
 8. Navigation might be circular or not, so we should support both.
@@ -259,14 +259,14 @@ function renderTabs() {
 
 The same API is used on the markup, and we render it with RTL's `render` method.
 We will abstract this away in `renderTabs` and also setup the `user` object for
-future iteractions.
+future interactions.
 
-We can create another commit with `setup infrastructure`. Now we're trully ready
+We can create another commit with `setup infrastructure`. Now we're truly ready
 to begin.
 
-#### Other Infrastrucure Stuff
+#### Other Infrastructure Stuff
 
-Up to you, you can setup Esling, Prettier and anything else that's going to help
+Up to you, you can setup ESLint, Prettier and anything else that's going to help
 out your development setup.
 
 ### Implementing one Tab Stop
@@ -295,7 +295,7 @@ describe('useRovingTabIndex', () => {
 ```
 
 Of course, it fails when we use `npm t` (`vitest`) to run it. Fixing it is quite
-simple, `getItemProps` just need to return tabindex="0" only for the focusable
+simple, `getItemProps` just needs to return tabindex="0" only for the focusable
 index and "-1" for rest. We will use a state value to keep track of what index
 is going to be focusable, and return the tabindex value based on that.
 
@@ -472,7 +472,7 @@ this API.
 
 ### Skipping Disabled Items
 
-I propose we go straing to #7 because this actually will be a great opportunity
+I propose we go straight to #7 because this actually will be a great opportunity
 to also refactor our `keydown` handler and make our hook more robust.
 
 > Disabled items should be skipped when navigating, but how do we mark a
@@ -523,7 +523,7 @@ function getItems(element: HTMLElement): HTMLElement[]
 ```
 
 We could provide hook defaults for these functions (our current strategy) and
-advertise the API. It should to the job. However, there's another option as
+advertise the API. It should do the job. However, there's another option as
 well:
 
 #### Using Item Refs
@@ -786,19 +786,19 @@ will be more or less obvious as we implement, if not from the beginning.
    was last focused.
    > Done ✅
 4. Keyboard navigation should work with Arrow Keys, as well as Home and End.
-   > Partiall done, we need to implement Home and End. 📋
+   > Partially done, we need to implement Home and End. 📋
 5. Navigation orientation should be both horizontal and vertical.
    > WIP📋
 6. RTL should also be considered for horizontal navigation.
    > WIP📋
 7. Disabled items should be skipped when navigating, but how do we mark a
    disabled item?
-   > Partiall done, we only considered `disabled` attributes. 📋
+   > Partially done, we only considered `disabled` attributes. 📋
 8. Navigation might be circular or not, so we should support both.
-   > Partiall done, we considered circular by default. 📋
+   > Partially done, we considered circular by default. 📋
 9. It has to be re-usable.
    > Done ✅
-10. Some componenents might need to change focus based on some custom
+10. Some components might need to change focus based on some custom
     requirement (character key navigation), so our tabindex utility should be
     aware of that.
 
