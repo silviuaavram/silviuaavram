@@ -15,11 +15,11 @@ tags:
 hide_table_of_contents: false
 ---
 
-![hilly landscape in the village of simon, brasov](./hilly-landscape-simon.webp)
-<em style={{textAlign: "center", display: 'block'}}>Hilly Landscape in the
-Village of Şimon.</em>
+![a collection of limestone-karst islands, maya bay, thailand](./maya-bay-island-collection.webp)
+<em style={{textAlign: "center", display: 'block'}}>A collection of
+limestone-karst islands at Maya Bay, Thailand.</em>
 
-_... ..._
+_Sweet! But things are going to become more complex in a bit._
 
 The _Roving Tabindex_ pattern has been around for some time. It's a very useful
 pattern when it comes to collections of items that are actionable. Without it,
@@ -315,8 +315,10 @@ export function useRovingTabIndex(
 }
 ```
 
-That's it, the test passes. #1 requirement is done. Things are going to become
-more complex in a bit.
+That's it, the test passes. #1 requirement is done. We can also check the live
+example, if hit Tab, the focus moves to the first button. Then, on the second
+Tab, the focus moves away from the pace. On Shift Tab, it goes back to the first
+button. Sweet! But things are going to become more complex in a bit.
 
 ### Tabindex should follow focus
 
@@ -798,9 +800,8 @@ will be more or less obvious as we implement, if not from the beginning.
    > Partially done, we considered circular by default. 📋
 9. It has to be re-usable.
    > Done ✅
-10. Some components might need to change focus based on some custom
-    requirement (character key navigation), so our tabindex utility should be
-    aware of that.
+10. Some components might need to change focus based on some custom requirement
+    (character key navigation), so our tabindex utility should be aware of that.
 
     > WIP📋
 
