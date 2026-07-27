@@ -29,6 +29,8 @@ construction going around and there weren't many places to eat or have a coffee,
 at least I did not find any. That was not on the convenient side, but the main
 topic of the trip was biking, so I forgave the shortcoming.
 
+{/* truncate */}
+
 ## Bellagio - Como and back
 
 A quite classic trip to start with, not very hard, but not very easy, as it

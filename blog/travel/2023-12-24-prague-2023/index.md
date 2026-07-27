@@ -36,6 +36,8 @@ would probably recommend visiting Prague during the summer, as it's not very hot
 during that time, and you would get the most out of your trip. You don't want to
 be in Prague when it's cold, or when it rains, or both. Trust me on that one.
 
+{/* truncate */}
+
 ## Prague City Center
 
 It's no surprise that the City Center is the main stop when going to Prague.

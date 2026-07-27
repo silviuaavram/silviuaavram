@@ -33,6 +33,8 @@ Gryffindor.
 
 And, just like that, my list has ran out of complaints.
 
+{/* truncate */}
+
 ## Valletta
 
 The old city is just so beautiful, authentic and unique. I had a feeling that

@@ -29,6 +29,8 @@ We're not going to debate that here. Instead, I would like to advocate the
 importance of _delivering the feature_. If it's not being used by costumers,
 nothing else matters.
 
+{/* truncate */}
+
 ## The Problem
 
 I was fixing an issue in Microsoft Teams related to a selection inside a search
