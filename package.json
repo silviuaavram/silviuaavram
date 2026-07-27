@@ -15,8 +15,8 @@
     "optimize-images": "node scripts/optimize-images.js"
   },
   "dependencies": {
-    "@docusaurus/core": "3.5.2",
-    "@docusaurus/preset-classic": "3.5.2",
+    "@docusaurus/core": "3.10.2",
+    "@docusaurus/preset-classic": "3.10.2",
     "@mdx-js/react": "^3.0.1",
     "clsx": "^2.1.1",
     "prism-react-renderer": "^2.3.1",
@@ -24,7 +24,7 @@
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "3.5.2",
+    "@docusaurus/module-type-aliases": "3.10.2",
     "@tsconfig/docusaurus": "^2.0.3",
     "kcd-scripts": "^16.0.0",
     "typescript": "^5.5.4"
