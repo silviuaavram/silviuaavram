@@ -25,7 +25,7 @@ to be analyzed.
 As I was writing this post, it occured to me that 2022 was, personally, a year
 full of events and achievements worth mentioning. Here they are:
 
-{/* truncate */}
+<!-- truncate -->
 
 ## Building this Blog
 

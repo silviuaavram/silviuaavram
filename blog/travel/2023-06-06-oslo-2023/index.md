@@ -38,7 +38,7 @@ Consequently, the drive to try something new won, and we picked Oslo as the
 winner, bought tickets, and breathed easier, knowing that our 1st of May already
 planned for.
 
-{/* truncate */}
+<!-- truncate -->
 
 ## Oslo by foot
 

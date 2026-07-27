@@ -22,7 +22,7 @@ there's so much to do, from lying on the beach to hiking next to a volcano. Our
 hopes were higher than the volcano, honestly, and we were not prepared to be
 disappointed.
 
-{/* truncate */}
+<!-- truncate -->
 
 ## Las Americas & Los Cristianos
 

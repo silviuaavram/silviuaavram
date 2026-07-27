@@ -23,7 +23,7 @@ like that, the stars aligned, the planets made love, and the horoscope whispered
 that I should book a flight to Perugia, from the 26th to the 30th, for a total
 price of 40 bucks.
 
-{/* truncate */}
+<!-- truncate -->
 
 Intriguing, I know. The horoscope gave me the answer I was looking for, but I
 had to find my own answers to questions like ... what is Perugia anyway? So

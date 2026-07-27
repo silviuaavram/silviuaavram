@@ -26,7 +26,7 @@ hosting and domain registration, at a cost, obviously.
 
 So, time to choose one technology stack and ... start writing already?
 
-{/* truncate */}
+<!-- truncate -->
 
 ### Picking the Tech Stack
 

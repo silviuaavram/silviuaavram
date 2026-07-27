@@ -20,7 +20,7 @@ bad as I thought it would be. Motivation was low throughout the year, sure, but
 consistency did help quite a lot, and I'm thankful for the habits that helped me
 decisively.
 
-{/* truncate */}
+<!-- truncate -->
 
 ## Goals for 2023
 

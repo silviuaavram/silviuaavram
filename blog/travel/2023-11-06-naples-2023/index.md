@@ -26,7 +26,7 @@ Palermo sounded to be the same thing, and that sparked a great deal of
 confusion. After I paused for a few minutes, I realised "what the hell", and
 bought the trip anyway. Yolo.
 
-{/* truncate */}
+<!-- truncate -->
 
 ## Naples
 

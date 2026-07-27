@@ -22,7 +22,7 @@ until I realised I bought the tickets for
 supposed to be better as it was closer to Etna and Taormina, so off we went to
 this place full of history. And cannoli.
 
-{/* truncate */}
+<!-- truncate -->
 
 ## Catania
 

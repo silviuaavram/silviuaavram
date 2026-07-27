@@ -33,7 +33,7 @@ Gryffindor.
 
 And, just like that, my list has ran out of complaints.
 
-{/* truncate */}
+<!-- truncate -->
 
 ## Valletta
 

@@ -14,7 +14,7 @@ just some silly 3 business trip days. And the best part is: it's only vacation.
 A full week in tech heaven #2, the land of Amazon, Microsoft and, of course,
 Starbucks. I just wish I packed un umbrella.
 
-{/* truncate */}
+<!-- truncate -->
 
 ## Ballard
 

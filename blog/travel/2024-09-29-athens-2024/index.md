@@ -27,7 +27,7 @@ decided to cut my articles short. I'll focus only on the good stuff, throw some
 of the best pictures and I'll wrap it up sooner than expected. I'm not going
 aiming to turn this blog into the Song of Ice and Fire.
 
-{/* truncate */}
+<!-- truncate -->
 
 ## Athens Food & Walks
 

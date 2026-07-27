@@ -21,7 +21,7 @@ It was a long time coming, and I was super excited to start 2024 travelling
 season with this one. I had high expectations, given the reviews I received from
 my friends, and, honestly, I was still amazed by what the city had to offer.
 
-{/* truncate */}
+<!-- truncate -->
 
 ## Royal Palace and Surroundings
 

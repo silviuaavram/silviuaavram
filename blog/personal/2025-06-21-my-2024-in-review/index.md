@@ -21,7 +21,7 @@ I've met the love of my life, and for the first time ever, things have beginning
 to feel as they should have. I feel I'm in the right place and I'm excited for
 whatever comes next. I'm happy.
 
-{/* truncate */}
+<!-- truncate -->
 
 ## Goals for 2024
 

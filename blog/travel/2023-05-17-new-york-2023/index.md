@@ -17,7 +17,7 @@ Angeles, Paris and London.
 Needless to say, I arrived in NYC with big expectations. And I was still blown
 away.
 
-{/* truncate */}
+<!-- truncate -->
 
 ## Jersey City
 

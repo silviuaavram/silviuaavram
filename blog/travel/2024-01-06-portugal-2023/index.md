@@ -22,7 +22,7 @@ a blast of a time spanning a couple of weeks, full of surfing, visiting, hiking
 and just laying on the beach. Are we going to continue the tradition in 2024?
 Probably.
 
-{/* truncate */}
+<!-- truncate -->
 
 ## Lagos Surfing
 

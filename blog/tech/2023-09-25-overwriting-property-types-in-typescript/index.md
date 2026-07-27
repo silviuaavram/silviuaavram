@@ -23,7 +23,7 @@ general, but also Generics and some TS utilities that are available globally.
 Solving the problem below helped me understand TS better, and I hope it helps
 you as well. Let's begin.
 
-{/* truncate */}
+<!-- truncate -->
 
 ## The Use Case
 

@@ -17,7 +17,7 @@ Let's assume that we have the following scenario. We have a custom hook that
 returns getter props, and we want to make sure that those getter props are
 called correctly. But, first things first:
 
-{/* truncate */}
+<!-- truncate -->
 
 > What is a getter prop?
 

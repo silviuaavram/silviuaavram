@@ -31,7 +31,7 @@ absolutely no place to park a bicycle, yet alone a car. We finally found a payed
 multi level car park nearby, barely. Inside it, we found an empty spot on the
 last floor. Lucky us.
 
-{/* truncate */}
+<!-- truncate -->
 
 ## Malaga by Day
 
