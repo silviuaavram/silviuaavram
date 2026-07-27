@@ -66,7 +66,7 @@ The following demo shows these affected states side by side.
 
 [Open the Material UI forced-colors demo in CodeSandbox](https://codesandbox.io/p/devbox/bitter-pond-vyg89v).
 
-{/* truncate */}
+{/_ truncate _/}
 
 ## How forced colors work
 
@@ -152,7 +152,7 @@ component libraries need to fill the gap.
 #### forced-color-adjust: `<value>`
 
 Another useful CSS feature is the
-[forced-color-adjust](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/forced-color-adjust)
+[forced-color-adjust](https://developer.mozilla.org/en-US/docs/Web/CSS/forced-color-adjust)
 property. It can opt an element out of automatic forced-color adjustment.
 
 This is a sharp tool. When `forced-color-adjust: none` is used, the browser
