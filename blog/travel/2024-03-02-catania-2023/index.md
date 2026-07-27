@@ -22,6 +22,8 @@ until I realised I bought the tickets for
 supposed to be better as it was closer to Etna and Taormina, so off we went to
 this place full of history. And cannoli.
 
+<!-- truncate -->
+
 ## Catania
 
 After arriving at the airport and getting into the car, I realised that I'm

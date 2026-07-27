@@ -20,6 +20,8 @@ the nearby town of Cefalu, which was also on the trip list. We were so ready for
 a few days of Dolce Vita, andare in spiaggia, mangiare i cannoli and enjoying
 some ancient history combined with great scenery.
 
+<!-- truncate -->
+
 ## Palermo Food
 
 Not going to sugar-coat it: Sicily is the perfect place to fall in love with

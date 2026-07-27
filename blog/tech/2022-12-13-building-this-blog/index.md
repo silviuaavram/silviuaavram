@@ -26,6 +26,8 @@ hosting and domain registration, at a cost, obviously.
 
 So, time to choose one technology stack and ... start writing already?
 
+<!-- truncate -->
+
 ### Picking the Tech Stack
 
 The technical solution for this blog is a middle ground between tech skills and

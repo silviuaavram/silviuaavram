@@ -30,6 +30,8 @@ for my plants!
 Overall, I ticked a lot of goals when it comes to my role as a Software
 Engineer. I worked on my hobbies, my routine and, of course, my trips!
 
+<!-- truncate -->
+
 ## Goals for 2025
 
 In my [2024 year in review](https://silviuaavram.com/my-2024-in-review), I again

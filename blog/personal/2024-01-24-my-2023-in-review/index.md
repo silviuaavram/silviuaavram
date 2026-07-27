@@ -20,6 +20,8 @@ bad as I thought it would be. Motivation was low throughout the year, sure, but
 consistency did help quite a lot, and I'm thankful for the habits that helped me
 decisively.
 
+<!-- truncate -->
+
 ## Goals for 2023
 
 In my [2022 year in review](https://silviuaavram.com/my-2022-in-review), I set a

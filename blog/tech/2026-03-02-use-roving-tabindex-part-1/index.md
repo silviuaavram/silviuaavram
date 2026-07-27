@@ -29,6 +29,8 @@ pass it. Also, it might be easier for keyboard users to just use arrow keys to
 move between items instead of using Tab or Shift Tab. For me, at least, it's
 faster and way more intuitive.
 
+<!-- truncate -->
+
 ## Benefits
 
 Before going into the details, I believe it's crucial to explain the benefits,

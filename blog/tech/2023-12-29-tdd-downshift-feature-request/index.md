@@ -20,6 +20,8 @@ biggest offer they could make. TDD is also great in day-to-day work when adding
 features for your products, fixing issues and solving open source tickets, which
 is what we're going to do here.
 
+<!-- truncate -->
+
 ## The Problem
 
 Let's take the following

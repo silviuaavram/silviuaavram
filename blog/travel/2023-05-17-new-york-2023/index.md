@@ -17,6 +17,8 @@ Angeles, Paris and London.
 Needless to say, I arrived in NYC with big expectations. And I was still blown
 away.
 
+<!-- truncate -->
+
 ## Jersey City
 
 My trip started in Jersey City, across the Hudson, where my friends are based.

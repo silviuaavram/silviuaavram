@@ -38,6 +38,8 @@ Consequently, the drive to try something new won, and we picked Oslo as the
 winner, bought tickets, and breathed easier, knowing that our 1st of May already
 planned for.
 
+<!-- truncate -->
+
 ## Oslo by foot
 
 I prefer walking when I'm on a trip, and Oslo was not going to be any different.

@@ -26,6 +26,8 @@ Palermo sounded to be the same thing, and that sparked a great deal of
 confusion. After I paused for a few minutes, I realised "what the hell", and
 bought the trip anyway. Yolo.
 
+<!-- truncate -->
+
 ## Naples
 
 I was expecting the city to be a little different from the other cities I've

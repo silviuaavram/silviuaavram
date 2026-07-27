@@ -22,6 +22,8 @@ a blast of a time spanning a couple of weeks, full of surfing, visiting, hiking
 and just laying on the beach. Are we going to continue the tradition in 2024?
 Probably.
 
+<!-- truncate -->
+
 ## Lagos Surfing
 
 This is the main spot where we spent most of our two weeks, in the middle of the
