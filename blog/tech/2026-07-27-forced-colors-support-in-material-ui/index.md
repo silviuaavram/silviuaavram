@@ -66,7 +66,7 @@ The following demo shows these affected states side by side.
 
 [Open the Material UI forced-colors demo in CodeSandbox](https://codesandbox.io/p/devbox/bitter-pond-vyg89v).
 
-{/_ truncate _/}
+{/* truncate */}
 
 ## How forced colors work
 
